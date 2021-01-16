@@ -1,9 +1,0 @@
-2020-12-26T21:32:29+00:00 CRITICAL Uncaught Error: Call to undefined function listeo_date_time_wp_format() in /home/klient.dhosting.pl/czarterkamp/czarterkamper2.you2.pl/public_html/wp-content/themes/listeo/functions.php:276
-Stack trace:
-#0 /home/klient.dhosting.pl/czarterkamp/czarterkamper2.you2.pl/public_html/wp-includes/class-wp-hook.php(287): listeo_scripts('')
-#1 /home/klient.dhosting.pl/czarterkamp/czarterkamper2.you2.pl/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
-#2 /home/klient.dhosting.pl/czarterkamp/czarterkamper2.you2.pl/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
-#3 /home/klient.dhosting.pl/czarterkamp/czarterkamper2.you2.pl/public_html/wp-includes/script-loader.php(2004): do_action('wp_enqueue_scri...')
-#4 /home/klient.dhosting.pl/czarterkamp/czarterkamper2.you2.pl/public_html/wp-includes/class-wp-hook.php(287): wp_enqueue_scripts('')
-#5 /home/klient.dhosting.pl/czarterkamp/czarterkamper2.you2.pl/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NU w /home/klient.dhosting.pl/czarterkamp/czarterkamper2.you2.pl/public_html/wp-content/themes/listeo/functions.php w linii 276
-
