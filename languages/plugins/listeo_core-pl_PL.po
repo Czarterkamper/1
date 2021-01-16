@@ -1,0 +1,7162 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"Project-Id-Version: Listeo-Core - Directory Plugin by Purethemes\n"
+"POT-Creation-Date: 2020-05-09 00:07+0200\n"
+"PO-Revision-Date: 2021-01-12 05:41+0000\n"
+"Last-Translator: Łukasz Michałowski\n"
+"Language-Team: Polski\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: listeo-core.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: pl_PL\n"
+"X-Loco-Version: 2.5.0; wp-5.6"
+
+#: includes/class-listeo-core-activities-log.php:216
+msgid " ago"
+msgstr ""
+
+#: includes/class-listeo-core-emails.php:733
+#: includes/class-listeo-core-emails.php:753 templates/booking.php:163
+#: templates/booking.php:184 templates/booking/content-booking.php:117
+#: templates/booking/content-booking.php:135
+#: templates/booking/content-user-booking.php:121
+#: templates/booking/content-user-booking.php:139
+#: templates/single-partials/single-listing-main-details.php:60
+msgid " at "
+msgstr "o"
+
+#: includes/class-listeo-core-meta-boxes.php:273
+msgid " Closing"
+msgstr "Zamknięcie"
+
+#: includes/class-listeo-core-meta-boxes.php:258
+msgid " Opening"
+msgstr "Otwarcie"
+
+#: includes/class-listeo-core-bookings-calendar.php:813
+#: includes/class-listeo-core-widgets.php:891
+msgid " slots available"
+msgstr "dostępne miejsca"
+
+#: listeo-core-template-functions.php:2139
+#, php-format
+msgid "\"%s\" (filetype %s) needs to be one of the following file types: %s"
+msgstr ""
+"\"%s\" (filetype %s) musi być jednym z następujących typów plików%s\n"
+
+#: includes/class-listeo-core-admin.php:1119
+msgid "\"From name\" in email"
+msgstr "„Imię” w e-mailu"
+
+#: includes/class-listeo-core-admin.php:1127
+msgid "\"From\" email "
+msgstr "\"Od\" e-mail "
+
+#. translators: 1: count 2: limit
+#: templates/account/coupons.php:48
+#, php-format
+msgid "%1$s / %2$s"
+msgstr ""
+
+#: listeo-core-template-functions.php:1310
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Hookup_Base.php:42
+#, php-format
+msgid "%1$s should be implemented by the extended class."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:458
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:456
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+msgstr ""
+
+#: includes/class-listeo-core-emails.php:771
+#: templates/booking/content-booking.php:162
+#: templates/booking/content-user-booking.php:163
+#, php-format
+msgid "%d Child"
+msgid_plural "%s Children"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-packages.php:57
+#, php-format
+msgid "%d Days"
+msgstr ""
+
+#: includes/class-listeo-core-emails.php:775
+#: templates/booking/content-booking.php:165
+#: templates/booking/content-user-booking.php:166
+#, php-format
+msgid "%d Guest"
+msgid_plural "%s Guests"
+msgstr[0] "%d Gość"
+msgstr[1] "%d Gości"
+msgstr[2] ""
+
+#: templates/listing-submit-package.php:128
+#, php-format
+msgid "%d listing"
+msgid_plural "%s listings"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-listeo-core-emails.php:779
+#: templates/booking/content-booking.php:168
+#: templates/booking/content-user-booking.php:169
+#, php-format
+msgid "%d Ticket"
+msgid_plural "%s Tickets"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: lib/cmb2/example-functions.php:718
+#, php-format
+msgid "%s &mdash; Updated!"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:893
+#, php-format
+msgid "%s approved"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:898
+#, php-format
+msgid "%s expired"
+msgstr "%s wygasł"
+
+#: includes/class-listeo-core-coupons.php:201
+#, php-format
+msgid "%s has been added"
+msgstr ""
+
+#: includes/class-listeo-core-coupons.php:232
+#: includes/class-listeo-core-users.php:745
+#, php-format
+msgid "%s has been deleted"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:1356
+#, php-format
+msgid "%s is a required field"
+msgstr "% s jest polem wymaganym"
+
+#: includes/class-listeo-core-submit.php:1370
+#, php-format
+msgid "%s is invalid"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:405
+#, php-format
+msgid "%s person bookmarked this place"
+msgid_plural "%s people bookmarked this place"
+msgstr[0] "%s osoba dodała do ulubionych"
+msgstr[1] "%s osoby dodało do ulubionych"
+msgstr[2] ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-packages.php:59
+#, php-format
+msgid "%s Posted"
+msgstr ""
+
+#: templates/account/bookmarks.php:58 templates/account/my_listings.php:94
+#: templates/content-listing-grid.php:109 templates/content-listing.php:67
+#: templates/listing-preview.php:53 templates/single-listing.php:151
+#, php-format
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] "%s recenzja"
+msgstr[1] "%s recenzje"
+msgstr[2] ""
+
+#: listeo-core-template-functions.php:1292
+msgid "(Edit)"
+msgstr "(Edycja)"
+
+#: templates/listing-submit.php:157
+msgid "(optional)"
+msgstr "(opcjonalnie)"
+
+#: listeo-core-template-functions.php:591
+msgid "--Choose page--"
+msgstr "--Wybierz stronę--"
+
+#: includes/class-listeo-core-admin.php:665
+#: includes/class-listeo-core-admin.php:759
+#: includes/class-listeo-core-admin.php:816
+#: includes/class-listeo-core-admin.php:827
+#: includes/class-listeo-core-admin.php:833
+#: includes/class-listeo-core-admin.php:851
+msgid "."
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:1109
+#: includes/class-listeo-core-meta-boxes.php:1110
+#: includes/class-listeo-core-meta-boxes.php:1176
+#: includes/class-listeo-core-meta-boxes.php:1177
+#: includes/class-listeo-core-submit.php:532
+msgid "<i class=\"fa fa-facebook-square\"></i> Facebook"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:1123
+#: includes/class-listeo-core-meta-boxes.php:1124
+#: includes/class-listeo-core-meta-boxes.php:1190
+#: includes/class-listeo-core-meta-boxes.php:1191
+#: includes/class-listeo-core-submit.php:565
+msgid "<i class=\"fa fa-instagram\"></i> Instagram"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:1116
+#: includes/class-listeo-core-meta-boxes.php:1117
+#: includes/class-listeo-core-meta-boxes.php:1183
+#: includes/class-listeo-core-meta-boxes.php:1184
+msgid "<i class=\"fa fa-linkedin\"></i> Linkedin"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:1135
+#: includes/class-listeo-core-meta-boxes.php:1136
+#: includes/class-listeo-core-meta-boxes.php:1202
+#: includes/class-listeo-core-meta-boxes.php:1203
+#: includes/class-listeo-core-submit.php:586
+msgid "<i class=\"fa fa-skype\"></i> Skype"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:1141
+#: includes/class-listeo-core-meta-boxes.php:1142
+#: includes/class-listeo-core-meta-boxes.php:1208
+#: includes/class-listeo-core-meta-boxes.php:1209
+msgid "<i class=\"fa fa-skype\"></i> Whatsapp"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:1103
+#: includes/class-listeo-core-meta-boxes.php:1104
+#: includes/class-listeo-core-meta-boxes.php:1170
+#: includes/class-listeo-core-meta-boxes.php:1171
+msgid "<i class=\"fa fa-twitter\"></i> Twitter"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:543
+msgid "<i class=\"fa fa-twitter-square\"></i> Twitter"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:576
+msgid "<i class=\"fa fa-whatsapp\"></i> WhatsApp"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:1129
+#: includes/class-listeo-core-meta-boxes.php:1130
+#: includes/class-listeo-core-meta-boxes.php:1196
+#: includes/class-listeo-core-meta-boxes.php:1197
+msgid "<i class=\"fa fa-youtube\"></i> YouTube"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:554
+msgid "<i class=\"fa fa-youtube-square\"></i> YouTube"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-orders.php:108
+#, php-format
+msgid ""
+"<strong>%s</strong> has been submitted successfully and will be visible once "
+"approved."
+msgstr "<strong>%s</strong>będzie widoczny po zatwierdzeniu."
+
+#: includes/paid-listings/class-listeo-core-paid-listings-orders.php:112
+#, php-format
+msgid ""
+"<strong>%s</strong> has been submitted successfully and will be visible once "
+"payment has been confirmed."
+msgstr ""
+"<strong>%s</strong> został przesłany pomyślnie i będzie widoczny po "
+"potwierdzeniu płatności."
+
+#: includes/paid-listings/class-listeo-core-paid-listings-orders.php:115
+#, php-format
+msgid "<strong>%s</strong> has been submitted successfully."
+msgstr "<strong>%s</strong> został przesłany pomyślnie"
+
+#: includes/class-listeo-core-reviews.php:640
+msgid "<strong>ERROR:</strong> A PHP extension stopped the file upload."
+msgstr ""
+
+#: includes/class-listeo-core-reviews.php:638
+msgid "<strong>ERROR:</strong> Failed to write file to disk."
+msgstr ""
+
+#: includes/class-listeo-core-reviews.php:627
+msgid "<strong>ERROR:</strong> File you upload must be valid file type,"
+msgstr ""
+
+#: includes/class-listeo-core-reviews.php:636
+msgid "<strong>ERROR:</strong> Missing a temporary folder."
+msgstr ""
+
+#: includes/class-listeo-core-reviews.php:632
+msgid ""
+"<strong>ERROR:</strong> The uploaded file exceeds the MAX_FILE_SIZE "
+"directive that was specified in the HTML form."
+msgstr ""
+
+#: includes/class-listeo-core-reviews.php:630
+msgid ""
+"<strong>ERROR:</strong> The uploaded file exceeds the upload_max_filesize "
+"directive in php.ini."
+msgstr ""
+
+#: includes/class-listeo-core-reviews.php:634
+msgid ""
+"<strong>ERROR:</strong> The uploaded file was only partially uploaded. "
+"Please try again later."
+msgstr ""
+
+#: includes/class-listeo-core-users.php:138
+msgid "<strong>ERROR</strong>: You must include a role."
+msgstr ""
+
+#: includes/class-listeo-core-users.php:2434
+#, php-format
+msgid "[%s] New User Registration"
+msgstr "[%s] Rejestracja nowego użytkownika"
+
+#: templates/account/change_password.php:23 templates/my-account.php:199
+msgid "A bit short as a password, don't you think?"
+msgstr "Za krótkie hasło"
+
+#: includes/class-listeo-core-users.php:1520
+msgid "A confirmation link has been sent to your email address."
+msgstr "Link potwierdzający został wysłany na Twój adres e-mail."
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller.php:378
+msgid "A human-readable description of the object."
+msgstr ""
+
+#: templates/my-account.php:93
+msgid "About me"
+msgstr "O mnie"
+
+#: lib/cmb2/example-functions.php:448
+msgid "About Page Metabox"
+msgstr ""
+
+#: templates/account/wallet.php:136
+msgid "account"
+msgstr "Konto"
+
+#: includes/class-listeo-core-bookings-admin.php:227
+msgid "Action"
+msgstr ""
+
+#: includes/class-listeo-core-commissions.php:444
+#: includes/class-listeo-core-payouts.php:632
+#: includes/class-listeo-core-post-types.php:606
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-packages.php:92
+#: templates/account/coupons.php:25 templates/account/coupons.php:63
+msgid "Actions"
+msgstr ""
+
+#: templates/account/dashboard.php:29 templates/account/my_listings.php:42
+#: templates/account/my_listings.php:52
+msgid "Active Listings"
+msgstr "Aktywne ogłoszenia"
+
+#: listeo-core-template-functions.php:1987 templates/form-fields/slots.php:101
+msgid "Add"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:270
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: templates/listing-submit.php:63
+msgid "Add A New Listing"
+msgstr "Dodaj nowe ogłoszenie"
+
+#: includes/class-listeo-core-admin.php:734
+msgid "Add address field to booking confirmation form"
+msgstr "Dodaj pole adresu do formularza potwierdzenia rezerwacji"
+
+#: lib/cmb2/example-functions.php:490
+msgid "Add Another Entry"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:197
+msgid "Add another Menu"
+msgstr ""
+
+#: templates/form-fields/pricing.php:72 templates/form-fields/pricing.php:104
+msgid "Add Category"
+msgstr "Dodaj kategorię"
+
+#: templates/form-fields/av_calendar.php:31
+#: templates/form-fields/av_calendar.php:47
+msgid "Add Dates"
+msgstr ""
+
+#: templates/form-fields/floorplans.php:75
+msgid "Add Floorplan"
+msgstr ""
+
+#: templates/account/wallet.php:136
+msgid "Add following bank transfer details:"
+msgstr "Dodaj następujące dane do przelewu bankowego:"
+
+#: lib/cmb2/includes/CMB2_Field.php:1211
+msgid "Add Group"
+msgstr ""
+
+#: templates/form-fields/pricing.php:71 templates/form-fields/pricing.php:103
+msgid "Add Item"
+msgstr "Dodaj wyposażenie opcjonalne "
+
+#: templates/account/logged_section.php:93
+#: templates/account/logged_section.php:103
+msgid "Add Listing"
+msgstr "Dodaj kampera"
+
+#: templates/form-fields/hours.php:27
+msgid "Add More"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:269
+msgid "Add New"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:361
+#: includes/class-listeo-core-post-types.php:403
+#: includes/class-listeo-core-post-types.php:444
+#: includes/class-listeo-core-post-types.php:485
+#: includes/class-listeo-core-post-types.php:527
+#: includes/class-listeo-core-post-types.php:569
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: templates/account/coupons.php:121
+msgid "Add New Coupon"
+msgstr ""
+
+#: lib/cmb2/includes/types/CMB2_Type_File.php:76
+msgid "Add or Upload File"
+msgstr ""
+
+#: lib/cmb2/includes/types/CMB2_Type_File_List.php:41
+msgid "Add or Upload Files"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:563
+msgid "Add or Upload Images"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:915
+msgid "Add Password pickup field to registration form"
+msgstr ""
+
+#: includes/class-listeo-core-reviews.php:139
+#: includes/class-listeo-core-reviews.php:211
+msgid "Add Photos"
+msgstr "Prześlij zdjęcia"
+
+#: templates/single-listing.php:216
+#: templates/single-partials/single-listing-reviews.php:176
+msgid "Add Review"
+msgstr "Dodaj recenzje"
+
+#: lib/cmb2-tabs/example.php:66 lib/cmb2-tabs/example.php:172
+msgid "Add review"
+msgstr "Dodaj recenzje"
+
+#: lib/cmb2/includes/CMB2_Types.php:349
+msgid "Add Row"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:268
+msgid "Add time"
+msgstr ""
+
+#: includes/class-wc-product-listing-booking.php:94
+#: includes/paid-listings/class-wc-product-listing-package.php:98
+msgid "Add to cart"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin.php:84
+#: includes/paid-listings/class-listeo-core-paid-listings-admin.php:103
+msgid "Add User Package"
+msgstr ""
+
+#: includes/class-listeo-core.php:580 includes/class-listeo-core.php:590
+msgid "Add widgets here."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:601
+msgid "Adding listings by users will require purchasing a Listing Package"
+msgstr "Dodanie ofert przez użytkowników będzie wymagało zakupu pakietu ofert"
+
+#: includes/class-listeo-core-search.php:1258
+#: includes/class-listeo-core-search.php:1259
+msgid "Additional Features"
+msgstr ""
+
+#: templates/booking.php:251
+msgid "Additional Services"
+msgstr "Dodatkowe wypasażenie"
+
+#: includes/class-listeo-core-meta-boxes.php:452
+#: includes/class-listeo-core-post-types.php:602
+#: includes/class-listeo-core-submit.php:384
+msgid "Address"
+msgstr "Adres"
+
+#: includes/class-listeo-core-admin.php:441
+msgid "Address suggestion provider"
+msgstr ""
+
+#: templates/booking/content-booking.php:211
+#: templates/booking/content-user-booking.php:220
+msgid "Address:"
+msgstr "Adres:"
+
+#: includes/class-listeo-core-admin.php:910
+msgid "Adds optional input fields for first and last name"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:588
+msgid "Admin approval required"
+msgstr "Wymagane zatwierdzenie przez administratora"
+
+#: includes/class-listeo-core-meta-boxes.php:338
+msgid "Advanced meta data Listing"
+msgstr ""
+
+#: includes/class-listeo-core-settings.php:179
+msgid "After or before the price."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:758
+msgid "Ajax based listing browsing"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:819
+msgid "Ajax form in a popup"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:268
+#: includes/class-listeo-core-post-types.php:356
+#: includes/class-listeo-core-post-types.php:398
+#: includes/class-listeo-core-post-types.php:439
+#: includes/class-listeo-core-post-types.php:480
+#: includes/class-listeo-core-post-types.php:522
+#: includes/class-listeo-core-post-types.php:564
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: includes/class-listeo-core-ical.php:248
+msgid "All calendars are automaticaly refreshed every 30 minutes"
+msgstr ""
+
+#: includes/class-listeo-core-search.php:1027
+#: includes/class-listeo-core-search.php:1188
+msgid "All Categories"
+msgstr ""
+
+#: templates/account/reviews.php:31 templates/dashboard-bookings.php:46
+msgid "All Listings"
+msgstr "Wszystkie ogłoszenia"
+
+#: templates/dashboard-bookings.php:30
+msgid "All Statuses"
+msgstr "Wszystkie"
+
+#: includes/class-listeo-core-admin.php:675
+msgid "Allow owners to add reviews"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:728
+msgid "Allow owners to make bookings"
+msgstr "Pozwól właścicielom dokonywać rezerwacji"
+
+#: includes/class-listeo-core-admin.php:606
+msgid "Allow packages to only be purchased once per client"
+msgstr ""
+"\n"
+"51/5000\n"
+"Zezwól na zakup pakietów tylko raz na klienta"
+
+#: includes/class-listeo-core-admin.php:680
+msgid "Allow reviewing only to users who made a booking"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:921
+msgid "Allow user to change his role in \"My Account\" page"
+msgstr ""
+
+#: templates/account/coupon-submit.php:202
+msgid "Allowed emails"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:357
+msgid "Always show"
+msgstr "Zawsze pokazuj"
+
+#: listeo-core-template-functions.php:1970
+#: listeo-core-template-functions.php:1980 templates/form-fields/slots.php:83
+#: templates/form-fields/slots.php:94
+msgid "am"
+msgstr ""
+
+#: includes/class-listeo-core-payouts.php:630
+msgid "Amount"
+msgstr ""
+
+#: templates/account/login.php:44
+msgid "An account exists with this email address."
+msgstr ""
+
+#: templates/account/change_password.php:29 templates/my-account.php:205
+msgid "An error occurred while updating your profile. Please retry."
+msgstr ""
+
+#: includes/class-listeo-core-users.php:1862
+msgid "An unknown error occurred. Please try again later."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:796
+msgid "AND"
+msgstr ""
+
+#: listeo-core-template-functions.php:503
+msgid "Any Type"
+msgstr ""
+
+#: includes/class-listeo-core-settings.php:190
+msgid "API key"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:487
+msgid "API key for Bing Maps"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:494
+msgid "API key for ThunderForest"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:508
+msgid "App code key for HERE Maps"
+msgstr ""
+
+#: includes/class-listeo-core-search.php:1429
+#: includes/class-listeo-core-search.php:1491
+#: includes/class-listeo-core-widgets.php:1105
+#: includes/class-listeo-core.php:389 templates/archive/top-buttons.php:81
+#: templates/archive/top-buttons.php:98 templates/booking.php:319
+msgid "Apply"
+msgstr "Ok"
+
+#: includes/class-listeo-core-post-types.php:671
+#: templates/booking/content-booking.php:282
+msgid "Approve"
+msgstr "Akceptuj"
+
+#: includes/class-listeo-core-post-types.php:892
+#, php-format
+msgid "Approve %s"
+msgstr ""
+
+#: templates/booking/content-booking.php:33
+#: templates/booking/content-booking.php:47
+#: templates/booking/content-user-booking.php:23
+#: templates/booking/content-user-booking.php:34
+msgid "Approved"
+msgstr "Zatwierdzony"
+
+#: includes/class-listeo-core.php:434
+msgid "April"
+msgstr "Kwiecień"
+
+#: lib/cmb2/example-functions.php:635
+msgid "Arbitrary Term Field"
+msgstr ""
+
+#: includes/class-listeo-core.php:378
+msgid "Are you sure you want to cancel this upload?"
+msgstr "Czy na pewno chcesz anulować to przesyłanie?"
+
+#: includes/class-listeo-core.php:381
+msgid "Are you sure?"
+msgstr "Jesteś pewien?"
+
+#: includes/class-listeo-core-meta-boxes.php:656
+#: templates/form-fields/floorplans.php:32
+#: templates/form-fields/floorplans.php:65
+msgid "Area"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:245
+#: includes/class-listeo-core-settings.php:124
+msgid "Argentine Peso"
+msgstr ""
+
+#: templates/booking/content-booking.php:95
+#: templates/booking/content-booking.php:252
+#: templates/booking/content-user-booking.php:99
+#: templates/booking/content-user-booking.php:260
+msgid "at"
+msgstr ""
+
+#: includes/class-listeo-core.php:438
+msgid "August"
+msgstr "Sierpień"
+
+#: includes/class-listeo-core-admin.php:246
+#: includes/class-listeo-core-settings.php:125
+msgid "Australian Dollars"
+msgstr ""
+
+#: lib/cmb2-tabs/example.php:77 lib/cmb2-tabs/example.php:183
+msgid "Author avatar"
+msgstr "Zdjęcie autora"
+
+#: lib/cmb2-tabs/example.php:72 lib/cmb2-tabs/example.php:178
+msgid "Author name"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:393
+msgid "Autofit all markers on map"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:400
+msgid "Automatically locate users on page load"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:826
+msgid "Automatically login user after successful registration"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:852
+msgid "Availability"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:439
+#: includes/class-listeo-core-submit.php:1024
+msgid "Availability Calendar"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:864
+msgid "Availability Slots"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1139
+#: includes/class-listeo-core-admin.php:1299
+#: includes/class-listeo-core-admin.php:1330
+#: includes/class-listeo-core-admin.php:1362
+#: includes/class-listeo-core-admin.php:1394
+#: includes/class-listeo-core-admin.php:1426
+#: includes/class-listeo-core-admin.php:1459
+#: includes/class-listeo-core-admin.php:1491
+#: includes/class-listeo-core-admin.php:1521
+#: includes/class-listeo-core-admin.php:1553
+#: includes/class-listeo-core-admin.php:1584
+msgid "Available tags are:"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:884
+msgid "Available Tickets"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:558
+msgid "Avatar"
+msgstr "Zdjęcie profilowe"
+
+#: lib/cmb2-tabs/example.php:38 lib/cmb2-tabs/example.php:144
+msgid "Background image"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:248
+#: includes/class-listeo-core-settings.php:127
+msgid "Bahraini Dinar"
+msgstr ""
+
+#: includes/class-listeo-core-commissions.php:442
+msgid "Balance to pay"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:247
+#: includes/class-listeo-core-settings.php:126
+msgid "Bangladeshi Taka"
+msgstr ""
+
+#: templates/account/wallet.php:129 templates/account/wallet.php:170
+msgid "Bank Transfer"
+msgstr "Transfer na konto bankowe"
+
+#: templates/account/wallet.php:138
+msgid "Bank Transfer Details"
+msgstr "Szczegóły przelewu bankowego"
+
+#: includes/class-listeo-core-submit.php:282
+msgid "Basic Information"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:430
+msgid ""
+"Bing <a href=\"https://www.microsoft.com/en-us/maps/choose-your-bing-maps-"
+"api\">(requires API key)</a>"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:490
+msgid "Bing Maps API Key"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:486
+msgid "Bing Maps Key"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:1445
+msgid "Biographical info"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:1131
+msgid "Book Now"
+msgstr "Zarezerwuj "
+
+#: includes/class-listeo-core-meta-boxes.php:786
+msgid "Bookable"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:709
+#: includes/class-listeo-core-bookings-admin.php:15
+#: includes/class-listeo-core-submit.php:836
+#: includes/class-listeo-core-widgets.php:654
+msgid "Booking"
+msgstr "Rezerwacje"
+
+#: includes/class-listeo-core-admin.php:1446
+msgid "Booking approved - payment needed email to user"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1526
+msgid "Booking cancelled notification email content"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1519
+msgid "Booking cancelled notification email subject"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1508
+msgid "Booking cancelled notification to user "
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:992
+msgid "Booking confirmation"
+msgstr "Potwierdzenie rezerwacji"
+
+#: includes/class-listeo-core-admin.php:1305
+msgid "Booking confirmation notification email content"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1297
+msgid "Booking confirmation notification email subject"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1286
+msgid "Booking confirmation to user (paid - not instant booking) "
+msgstr ""
+
+#: templates/booking/content-booking.php:82
+#: templates/booking/content-user-booking.php:86
+msgid "Booking Date:"
+msgstr "Data rezerwacji:"
+
+#: templates/booking/content-booking.php:158
+#: templates/booking/content-user-booking.php:159
+msgid "Booking Details:"
+msgstr "Szczegóły rezerwacji:"
+
+#: templates/booking/content-user-booking.php:179
+msgid "Booking Location:"
+msgstr "Lokalizacja:"
+
+#: includes/class-listeo-core-meta-boxes.php:359
+msgid "Booking options"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1477
+msgid "Booking paid by user email to owner"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1495
+msgid "Booking paid notification email content"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1488
+msgid "Booking paid notification email subject"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:878
+msgid "Booking prices and settings"
+msgstr "Cennik rezerwacji "
+
+#: includes/class-listeo-core-admin.php:1368
+#: includes/class-listeo-core-admin.php:1432
+#: includes/class-listeo-core-admin.php:1464
+msgid "Booking request notification email content"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1360
+#: includes/class-listeo-core-admin.php:1424
+#: includes/class-listeo-core-admin.php:1457
+msgid "Booking request notification email subject"
+msgstr ""
+
+#: templates/booking/content-user-booking.php:253
+msgid "Booking requested on:"
+msgstr "Rezerwacja dokonana w dniu:"
+
+#: templates/dashboard-bookings.php:71
+msgid "Booking Requests"
+msgstr "Zapytanie o rezerwacje"
+
+#: includes/class-listeo-core-meta-boxes.php:370
+msgid "Booking Status"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:843
+#: includes/class-listeo-core-submit.php:858
+msgid "Booking status"
+msgstr ""
+
+#: templates/booking.php:138
+msgid "Booking Summary"
+msgstr "Podsumowanie rezerwacji"
+
+#: includes/class-listeo-core-bookings-admin.php:16
+#: templates/account/logged_section.php:58
+msgid "Bookings"
+msgstr "Rezerwacje"
+
+#: includes/class-listeo-core-admin.php:978
+msgid "Bookings Page"
+msgstr ""
+
+#: includes/class-listeo-core-bookings-admin.php:486
+msgid "Bookings per page"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:744
+msgid ""
+"Bookings will have prices but the payments won't be handled by the site. "
+"Disable Wallet page in Liste Core -> Pages"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:335
+msgid "Bookmark button"
+msgstr ""
+
+#: includes/class-listeo-core-users.php:328
+#: includes/class-listeo-core-widgets.php:390
+msgid "Bookmark this listing"
+msgstr "Dodaj do ulubionych"
+
+#: includes/class-listeo-core-users.php:321
+#: includes/class-listeo-core-widgets.php:382
+msgid "Bookmarked"
+msgstr "Dodany do ulubionych"
+
+#: templates/account/bookmarks.php:13 templates/account/navigation.php:23
+msgid "Bookmarked Listings"
+msgstr "Ulubione oferty"
+
+#: includes/class-listeo-core-users.php:326
+#: includes/class-listeo-core-widgets.php:388
+msgid "Bookmarked!"
+msgstr "Dodane do ulubionych!"
+
+#: templates/account/logged_section.php:42
+msgid "Bookmarks"
+msgstr "Ulubione"
+
+#: includes/class-listeo-core-admin.php:1020
+msgid "Bookmarks Page"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:249
+#: includes/class-listeo-core-settings.php:128
+msgid "Brazilian Real"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:753
+msgid "Browse Listing"
+msgstr "Przeglądaj kampery"
+
+#: templates/account/logged_section.php:97
+msgid "Browse Listings"
+msgstr "Przeglądaj kampery"
+
+#: includes/class-listeo-core-admin.php:250
+#: includes/class-listeo-core-settings.php:129
+msgid "Bulgarian Lev"
+msgstr ""
+
+#: templates/listing-submit-package.php:150
+msgid "Buy this package"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:660
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:660
+msgid "by a guest"
+msgstr ""
+
+#: templates/listing-submit.php:94
+msgid ""
+"By default booking widget in your listing has time picker. Enable this "
+"section to configure time slots."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:583
+msgid ""
+"By default bookings are enabled, check this checkbox to disable it and "
+"remove booking options from Submit Listing"
+msgstr ""
+"Rezerwacje są domyślnie włączone, zaznacz to pole wyboru, aby je wyłączyć i "
+"usunąć opcje rezerwacji"
+
+#: includes/class-listeo-core-admin.php:324
+msgid "By default sort listings by:"
+msgstr "Domyślnie sortuj listy według:"
+
+#: includes/class-listeo-core-admin.php:350
+msgid ""
+"By enabling this option phone and emails fields will be visible only for:"
+msgstr ""
+"Po włączeniu tej opcji pola telefonu i wiadomości e-mail będą widoczne tylko "
+"dla:"
+
+#: includes/class-listeo-core-admin.php:343
+msgid ""
+"By enabling this option the links to properties will <br> be prepended  with "
+"regions (e.g /listing/las-vegas/arlo-apartment/).<br> After enabling this go "
+"to Settings-> Permalinks and click ' Save Changes ' "
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:451
+msgid ""
+"By selecting (clicking on a photo) one of the uploaded photos you will set "
+"it as Featured Image for this listing (marked by icon with star). Drag and "
+"drop thumbnails to re-order images in gallery."
+msgstr ""
+"Wybierając jedno z przesłanych zdjęć ustawisz je jako główny obraz "
+"(oznaczony ikoną z gwiazdką). Przeciągnij i upuść miniatury, aby ponownie "
+"dodać obrazy w galerii."
+
+#: templates/listing-submit.php:127
+msgid ""
+"By turning on switch on the right, you'll enable booking feature, it will "
+"add Booking widget on your listing. You'll see more configuration settings "
+"below."
+msgstr ""
+"Włączając przełącznik po prawej stronie zobaczysz więcej ustawień kalendarza."
+
+#: includes/class-listeo-core-ical.php:191
+msgid "Calendar was removed, no events deleted"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:251
+#: includes/class-listeo-core-settings.php:130
+msgid "Canadian Dollars"
+msgstr ""
+
+#: includes/class-listeo-core.php:390 templates/archive/top-buttons.php:80
+#: templates/booking/content-booking.php:274
+#: templates/booking/content-user-booking.php:286
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: includes/class-listeo-core.php:377
+msgid "Cancel upload"
+msgstr "Anuluj przesyłanie"
+
+#: templates/booking/content-booking.php:59
+#: templates/booking/content-user-booking.php:45
+msgid "Canceled"
+msgstr "Anulowano"
+
+#: includes/class-listeo-core-post-types.php:337
+#: includes/class-listeo-core-search.php:1080
+msgid "Categories"
+msgstr "Rodzaj kampera"
+
+#: includes/class-listeo-core-post-types.php:336
+#: includes/class-listeo-core-submit.php:298
+msgid "Category"
+msgstr " - "
+
+#: includes/class-listeo-core-search.php:834
+#: includes/class-listeo-core-search.php:944
+#, php-format
+msgid "Category \"%s\" doesn't have any additional filters"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:983
+#: includes/class-listeo-core-meta-boxes.php:1042
+msgid "Category Cover"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:956
+#: includes/class-listeo-core-meta-boxes.php:1007
+msgid "Category Icon"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:613
+msgid "Category Metabox"
+msgstr ""
+
+#: includes/class-listeo-core.php:414 templates/form-fields/pricing.php:24
+msgid "Category Title"
+msgstr "Tytuł kategorii"
+
+#: templates/account/change_password.php:7 templates/account/navigation.php:64
+#: templates/my-account.php:172
+msgid "Change Password"
+msgstr "Zmień hasło"
+
+#: templates/my-account.php:54
+msgid "Change your role"
+msgstr "Zmień role"
+
+#: includes/class-listeo-core-admin.php:2071
+#: includes/class-listeo-core-admin.php:2080
+#: includes/class-listeo-core-settings.php:391
+#: includes/class-listeo-core-settings.php:400
+#: includes/class-listeo-core.php:805 includes/class-listeo-core.php:814
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/class-listeo-core.php:736
+msgid "Check here how to do it."
+msgstr ""
+
+#: lib/cmb2/example-functions.php:379
+msgid "Check One"
+msgstr ""
+
+#: templates/compare-listings.php:25
+msgid "Check Other Properties"
+msgstr ""
+
+#: templates/account/coupon-submit.php:191
+msgid ""
+"Check this box if the coupon cannot be used in conjunction with other "
+"coupons."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:839
+msgid ""
+"Check this checkbox to add reCAPTCHA to form. You need to provide API keys "
+"for that."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:845
+msgid ""
+"Check this checkbox to add reCAPTCHA to Reviews form. You need to provide "
+"API keys for that."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1173
+#: includes/class-listeo-core-admin.php:1204
+#: includes/class-listeo-core-admin.php:1232
+#: includes/class-listeo-core-admin.php:1262
+msgid "Check this checkbox to enable sending emails to listing authors"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1483
+msgid ""
+"Check this checkbox to enable sending emails to owner when booking was paid "
+"by use"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1355
+msgid ""
+"Check this checkbox to enable sending emails to owners when new booking was "
+"requested"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1387
+msgid ""
+"Check this checkbox to enable sending emails to owners when new instant "
+"booking was made"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1514
+msgid ""
+"Check this checkbox to enable sending emails to user when booking is "
+"cancelled"
+msgstr ""
+"Zaznacz to pole wyboru, aby umożliwić wysyłanie wiadomości e-mail do "
+"użytkownika po anulowaniu rezerwacji"
+
+#: includes/class-listeo-core-admin.php:1545
+msgid ""
+"Check this checkbox to enable sending emails to user when there was new "
+"conversation started"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1576
+msgid ""
+"Check this checkbox to enable sending emails to user when there was new "
+"message send"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1292
+#: includes/class-listeo-core-admin.php:1323
+msgid ""
+"Check this checkbox to enable sending emails to users after they request "
+"booking"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1419
+msgid ""
+"Check this checkbox to enable sending emails to users when booking was "
+"accepted by owner"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1452
+msgid ""
+"Check this checkbox to enable sending emails to users when booking was "
+"accepted by owner and they need to pay"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:381
+msgid "Check Three"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:380
+msgid "Check Two"
+msgstr ""
+
+#: includes/class-listeo-core-search.php:1004
+#: includes/class-listeo-core-search.php:1224
+msgid "Check-In - Check-Out"
+msgstr "Data wyjazdu - Data powrotu"
+
+#: includes/class-listeo-core-admin.php:252
+#: includes/class-listeo-core-settings.php:131
+msgid "Chilean Peso"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:253
+#: includes/class-listeo-core-settings.php:132
+msgid "Chinese Yuan"
+msgstr ""
+
+#: templates/form-fields/term-select.php:46
+msgid "Choose "
+msgstr "Wybierz"
+
+#: includes/class-listeo-core-admin.php:238
+msgid "Choose a currency used."
+msgstr ""
+
+#: includes/class-listeo-core-settings.php:118
+msgid "Choose a currency."
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:2251
+msgid "Choose a package"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-add-package.php:129
+msgid "Choose a product&hellip;"
+msgstr ""
+
+#: includes/class-listeo-core-settings.php:195
+msgid "Choose a scale."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:542
+msgid "Choose a unit"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:471
+msgid "Choose contact form"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:582
+msgid "Choose form action"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:223
+msgid "Choose hyphen (-), slash (/), or dot (.)"
+msgstr ""
+
+#: templates/listing-submit-type.php:27
+msgid "Choose Listing Type"
+msgstr ""
+
+#: templates/listing-submit-package.php:76
+msgid "Choose Package"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:531
+msgid "Choose radius search slider"
+msgstr ""
+
+#: templates/listing-submit-package.php:150
+msgid "Choose this package"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:187
+msgid "Choose Time"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:123
+msgid "Choose Type "
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:442
+msgid "Choose which service you want to use for adress autocomplete"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:423
+msgid "Choose which service you want to use for maps"
+msgstr ""
+
+#: templates/listing-submit-package.php:39
+msgid "Choose your Package"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1056
+msgid "Claim Listing Page"
+msgstr ""
+
+#: listeo-core-template-functions.php:87
+msgid "Cleanliness"
+msgstr "Czystość"
+
+#: includes/class-listeo-core.php:391 lib/cmb2/includes/CMB2_JS.php:143
+#: lib/cmb2/includes/CMB2_JS.php:184
+msgid "Clear"
+msgstr "Wyczyść"
+
+#: templates/account/dashboard.php:92
+msgid "Clear All"
+msgstr "Wyczyść wszystko"
+
+#: templates/form-fields/hours.php:26
+msgid "Clear Time"
+msgstr ""
+
+#: templates/listing-submit.php:97
+msgid "Click date in calendar to mark the day as unavailable."
+msgstr "Kliknij datę w kalendarzu, aby oznaczyć dzień jako niedostępny."
+
+#: includes/class-listeo-core-submit.php:1031
+msgid "Click day in calendar to mark it as unavailable"
+msgstr ""
+
+#: templates/form-fields/files.php:32
+msgid "Click here or drop files to upload"
+msgstr "Kliknij tutaj lub upuść pliki, aby je przesłać"
+
+#: templates/single-listing.php:51 templates/single-listing.php:264
+msgid "Click to claim this listing."
+msgstr ""
+
+#: includes/class-listeo-core.php:396 templates/form-fields/pricing.php:45
+#: templates/form-fields/pricing.php:86
+msgid "Click to make this item bookable in booking widget"
+msgstr ""
+"Kliknij, aby dodać jako opcje dodatkową z możliwością wyboru przez klienta"
+
+#: lib/cmb2/includes/CMB2.php:578
+msgid "Click to toggle"
+msgstr ""
+
+#: includes/class-listeo-core-bookings-admin.php:219
+msgid "Client"
+msgstr "Klient"
+
+#: templates/booking/content-booking.php:195
+#: templates/booking/content-user-booking.php:206
+msgid "Client:"
+msgstr "Klient:"
+
+#: includes/class-listeo-core-admin.php:211
+msgid "Clock format"
+msgstr ""
+
+#: includes/class-listeo-core-search.php:1426
+#: includes/class-listeo-core-search.php:1488
+msgid "Close"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:620
+#: includes/class-listeo-core-widgets.php:622
+msgid "Close Filters"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:1354
+#: includes/class-listeo-core-widgets.php:1388
+msgid "Closed"
+msgstr ""
+
+#: includes/class-listeo-core.php:444 templates/form-fields/hours.php:47
+#: templates/form-fields/hours.php:61
+msgid "Closing Time"
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+msgid ""
+"CMB2 Field value cannot be modified without the object_id and object_type "
+"parameters specified."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid ""
+"CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+
+#: listeo-core.php:352
+msgid "CMB2 Plugin is missing CMB2!"
+msgstr ""
+
+#: templates/account/coupons.php:20 templates/account/coupons.php:39
+msgid "Code"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:254
+#: includes/class-listeo-core-settings.php:133
+msgid "Colombian Peso"
+msgstr ""
+
+#: lib/cmb2-tabs/example.php:85 lib/cmb2-tabs/example.php:191
+msgid "Comment"
+msgstr ""
+
+#: templates/single-partials/single-listing-reviews.php:20
+#, php-format
+msgctxt "comments title"
+msgid "Review %1$s"
+msgid_plural "Reviews %1$s"
+msgstr[0] "Recenzja %1$s"
+msgstr[1] "Recenzje %1$s"
+msgstr[2] ""
+
+#: includes/class-listeo-core-admin.php:229
+msgid "Commission rate"
+msgstr "Stawka prowizji"
+
+#: includes/class-listeo-core-payouts.php:31
+#: includes/class-listeo-core-payouts.php:32
+msgid "Commissions"
+msgstr ""
+
+#: templates/compare-side.php:77
+msgid "Compare"
+msgstr ""
+
+#: templates/compare-side.php:22
+msgid "Compare Properties"
+msgstr ""
+
+#: templates/booking.php:109
+msgid "Confirm"
+msgstr "potwierdź"
+
+#: templates/booking.php:109 templates/booking.php:111
+msgid "Confirm and Book"
+msgstr "Zarezerwuj"
+
+#: templates/booking.php:111
+msgid "Confirm and Pay"
+msgstr "Potwierdź i zapłać"
+
+#: templates/account/change_password.php:46 templates/my-account.php:223
+msgid "Confirm New Password"
+msgstr "Potwierdź "
+
+#: templates/booking/content-booking.php:266
+msgid "Confirm Payment"
+msgstr "Potwierdź płatność"
+
+#: includes/class-listeo-core-meta-boxes.php:577
+msgid "Contact details"
+msgstr "Szczegóły kontaktu"
+
+#: includes/class-listeo-core-meta-boxes.php:589
+msgid ""
+"Contact Owner Widget  (uses email above) - Add Listeo Contact Widget to "
+"Sidebar"
+msgstr ""
+
+#: includes/class-listeo-core-messages.php:481
+msgid "Conversation couldn't be removed."
+msgstr "Nie można usunąć rozmowy."
+
+#: includes/class-listeo-core-messages.php:479
+msgid "Conversation was removed"
+msgstr "Rozmowa została usunięta"
+
+#: templates/booking.php:92
+msgid "Country"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:1778
+msgid "Coupon"
+msgstr ""
+
+#: templates/account/coupons.php:22 templates/account/coupons.php:41
+msgid "Coupon Amount"
+msgstr ""
+
+#: templates/account/coupon-submit.php:106
+msgid "Coupon amount"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:1104
+#: includes/class-listeo-core-widgets.php:1117
+#: templates/account/coupon-submit.php:52 templates/booking.php:41
+#: templates/booking.php:318
+msgid "Coupon code"
+msgstr "Kod kuponu"
+
+#: templates/account/coupon-submit.php:58
+msgid "Coupon Description"
+msgstr ""
+
+#: templates/account/coupon-submit.php:113
+msgid "Coupon expiry date"
+msgstr ""
+
+#: templates/account/coupons.php:21 templates/account/coupons.php:40
+msgid "Coupon Type"
+msgstr ""
+
+#: includes/class-listeo-core-bookings-calendar.php:550
+#: includes/class-listeo-core-bookings-calendar.php:601
+msgid "Coupon usage limit has been reached"
+msgstr ""
+
+#: includes/class-listeo-core-bookings-calendar.php:514
+msgid "Coupon was not provided"
+msgstr ""
+
+#: templates/account/coupon-submit.php:74
+msgid "Coupon Widget Background"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:1129
+msgid "Coupon Widget Settings"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:1135
+msgid "Coupon Widget status"
+msgstr ""
+
+#: includes/class-listeo-core-coupons.php:203
+#, php-format
+msgid "Coupon with code \"%s\" already exists"
+msgstr "Kupon z kodem \"%s\" już istnieje"
+
+#: includes/class-listeo-core-admin.php:722
+msgid "Coupons are enabled by default"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1063
+msgid "Coupons Manage Page"
+msgstr ""
+
+#: includes/class-listeo-core-bookings-admin.php:225
+msgid "Created"
+msgstr ""
+
+#: includes/class-listeo-core-bookings-admin.php:353
+msgid "Created date"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:262
+#: includes/class-listeo-core-settings.php:139
+msgid "Croatia kuna"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:237
+#: includes/class-listeo-core-settings.php:117
+msgid "Currency"
+msgstr "Waluta"
+
+#: includes/class-listeo-core-admin.php:303
+msgid "Currency position"
+msgstr ""
+
+#: includes/class-listeo-core-settings.php:178
+msgid "Currency symbol postion"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:146
+msgid "Current Color"
+msgstr ""
+
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:273
+msgid "Current page of the collection."
+msgstr ""
+
+#: templates/account/change_password.php:40 templates/my-account.php:217
+msgid "Current Password"
+msgstr "Aktualne hasło"
+
+#: includes/class-listeo-core.php:394
+msgid "Custom"
+msgstr "Niestandardowa"
+
+#: lib/cmb2/includes/CMB2_Types.php:231
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:701
+msgid "Custom fields"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:176
+msgid "Custom Rendered Field"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:255
+#: includes/class-listeo-core-settings.php:134
+msgid "Czech Koruna"
+msgstr ""
+
+#: listeo-core-template-functions.php:389
+msgid "Daily"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:256
+#: includes/class-listeo-core-settings.php:135
+msgid "Danish Krone"
+msgstr ""
+
+#: templates/account/logged_section.php:26
+msgid "Dashboard"
+msgstr "Panel główny"
+
+#: includes/class-listeo-core-admin.php:964
+msgid "Dashboard Page"
+msgstr ""
+
+#: includes/class-listeo-core-payouts.php:631
+#: includes/class-listeo-core-widgets.php:863
+#: includes/class-listeo-core-widgets.php:1023 templates/account/wallet.php:79
+#: templates/account/wallet.php:171 templates/booking.php:193
+msgid "Date"
+msgstr "Data"
+
+#: templates/booking.php:172
+msgid "Date End"
+msgstr ""
+
+#: includes/class-listeo-core-bookings-admin.php:338
+msgid "Date end"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:222
+msgid "Date format separator"
+msgstr ""
+
+#: templates/booking.php:149
+msgid "Date Start"
+msgstr ""
+
+#: includes/class-listeo-core-bookings-admin.php:333
+msgid "Date start"
+msgstr ""
+
+#: includes/class-listeo-core.php:442
+msgid "December"
+msgstr "Grudzień"
+
+#: includes/class-listeo-core-admin.php:315
+msgid "Decimal places for prices"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-add-package.php:95
+#: lib/cmb2/includes/CMB2_JS.php:144
+msgid "Default"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:664
+msgid "Default Gallery Type"
+msgstr ""
+
+#: templates/archive/top-buttons.php:111 templates/search-form/sortby.php:5
+msgid "Default Order"
+msgstr ""
+
+#: templates/archive/top-buttons.php:110 templates/dashboard-bookings.php:29
+#: templates/search-form/sortby.php:4
+msgid "Default order"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:898
+msgid "Default price for booking on Monday - Friday"
+msgstr "Domyślna cena rezerwacji od poniedziałku do piątku"
+
+#: includes/class-listeo-core-submit.php:915
+msgid "Default price for booking on weekend"
+msgstr "Cena domyślna za rezerwację w weekend"
+
+#: includes/class-listeo-core-admin.php:552
+msgid "Default radius search value"
+msgstr ""
+
+#: includes/class-listeo-core-bookings-admin.php:165
+#: includes/class-listeo-core-bookings-admin.php:201
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-packages.php:73
+#: templates/account/coupons.php:75 templates/account/my_listings.php:186
+#: templates/booking/content-booking.php:278
+#: templates/booking/content-user-booking.php:283
+msgid "Delete"
+msgstr "Usuń"
+
+#: templates/account/single_message.php:44
+msgid "Delete Conversation"
+msgstr "Usuń wiadomość"
+
+#: templates/my-account.php:239
+msgid "Delete Your Account"
+msgstr "Usuń swoje konto"
+
+#: includes/class-listeo-core-meta-boxes.php:824
+#: includes/class-listeo-core-submit.php:466 includes/class-listeo-core.php:387
+#: lib/cmb2/example-functions.php:511 templates/account/my_packages.php:7
+#: templates/form-fields/floorplans.php:34
+#: templates/form-fields/floorplans.php:66 templates/form-fields/pricing.php:39
+#: templates/form-fields/pricing.php:85
+msgid "Description"
+msgstr "Opis"
+
+#: includes/class-listeo-core-submit.php:461
+msgid "Details"
+msgstr "Szczegóły"
+
+#. Description of the plugin/theme
+msgid "Directory & Listings Plugin from Purethemes.net"
+msgstr ""
+
+#: includes/class-listeo-core-search.php:1424
+#: includes/class-listeo-core-search.php:1486
+#: templates/archive/top-buttons.php:97 templates/search-form/slider.php:81
+msgid "Disable"
+msgstr "Wyłącz "
+
+#: includes/class-listeo-core-admin.php:685
+msgid "Disable \"Add Photos\" option in the review form"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:448
+msgid "Disable address suggestion"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:582
+msgid "Disable Bookings module"
+msgstr "Wyłącz moduł rezerwacji"
+
+#: includes/class-listeo-core-admin.php:394
+msgid "Disable checkbox to set the zoom of map manually"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:242
+#: includes/class-listeo-core-settings.php:121
+msgid "Disable Currency Symbol"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:743
+msgid "Disable payments in bookings"
+msgstr "Wyłącz płatności w rezerwacjach"
+
+#: includes/class-listeo-core-search.php:1400
+msgid "Disable Radius"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:696
+msgid "Disable reviews on listings"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:763
+#: includes/class-listeo-core-admin.php:774
+#: includes/class-listeo-core-admin.php:785
+msgid "Disabled"
+msgstr "Wyłączone"
+
+#: includes/class-listeo-core-admin.php:535
+msgid "Disabled by default"
+msgstr ""
+
+#: templates/account/coupon-submit.php:94
+msgid "Discount type"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:566
+msgid "Display a Advanced Search Form."
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:328
+msgid "Display a Bookmarks and share buttons."
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:457
+msgid "Display a Contact form."
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:225
+msgid "Display a list of featured listings on your site."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:909
+msgid "Display First and Last name fields in registration form"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:1754
+msgid "Display post date?"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1057
+msgid "Displays claim listing form"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1064
+msgid "Displays form to manage coupons [listeo_coupons]"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1000
+msgid "Displays or listings added by user, content [listeo_my_listings]"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1007
+msgid "Displays or owners earnings, content [listeo_wallet]"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1070
+msgid "Displays orders page in dashboard menu"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:993
+msgid ""
+"Displays page for booking confirmation, content: "
+"[listeo_booking_confirmation]"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1014
+msgid "Displays reviews of user listings, content: [listeo_reviews]"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1028
+msgid "Displays submit listing page, content: [listeo_submit_listing]"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1076
+msgid ""
+"Displays subscription page in dashboard menu (requires WooCommerce "
+"Subscription plugin)"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1021
+msgid "Displays user bookmarks, content: [listeo_bookmarks]"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1035
+msgid "Displays user profile page, content: [listeo_my_account]"
+msgstr ""
+
+#: includes/class-listeo-core-search.php:1097
+#: templates/archive/top-buttons.php:92
+msgid "Distance Radius"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:257
+#: includes/class-listeo-core-settings.php:136
+msgid "Dominican Peso"
+msgstr ""
+
+#: templates/listing-sign-in.php:2
+msgid "Don't Have an Account?"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:141 lib/cmb2/includes/CMB2_JS.php:183
+#: lib/cmb2/includes/CMB2_JS.php:193
+msgid "Done"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:205
+#: lib/cmb2/includes/types/CMB2_Type_File_Base.php:81
+#: templates/single-partials/single-listing-main-details.php:98
+msgid "Download"
+msgstr ""
+
+#: includes/class-listeo-core.php:371
+msgid "Drop files here to upload"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-packages.php:89
+msgid "Duration"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:585
+#: includes/class-listeo-core-submit.php:507 templates/my-account.php:90
+msgid "E-mail"
+msgstr ""
+
+#: templates/booking.php:56
+msgid "E-Mail Address"
+msgstr "Adres E-mail"
+
+#: includes/class-listeo-core-users.php:2431
+#, php-format
+msgid "E-mail: %s"
+msgstr ""
+
+#: templates/account/wallet.php:60
+msgid "Earnings"
+msgstr "Zarobki"
+
+#: includes/class-listeo-core-bookings-admin.php:164
+#: includes/class-listeo-core-post-types.php:271
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-packages.php:72
+#: templates/account/coupons.php:69 templates/account/my_listings.php:168
+#: templates/account/my_listings.php:175
+#: templates/form-fields/floorplans.php:25
+#: templates/form-fields/floorplans.php:59
+msgid "Edit"
+msgstr "Edycja"
+
+#: includes/class-listeo-core-post-types.php:272
+#: includes/class-listeo-core-post-types.php:359
+#: includes/class-listeo-core-post-types.php:401
+#: includes/class-listeo-core-post-types.php:442
+#: includes/class-listeo-core-post-types.php:483
+#: includes/class-listeo-core-post-types.php:525
+#: includes/class-listeo-core-post-types.php:567
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:2409
+msgid "Edit Listing"
+msgstr "Edytuj ogłoszenie"
+
+#: templates/listing-preview.php:107
+msgid "Edit listing"
+msgstr "Edytuj ogłoszenie"
+
+#: includes/class-listeo-core-reviews.php:743 templates/account/reviews.php:60
+#: templates/account/reviews.php:154
+msgid "Edit your reply"
+msgstr ""
+
+#: templates/account/reviews.php:205 templates/account/reviews.php:302
+msgid "Edit your review"
+msgstr "Edytuj swoją recenzję"
+
+#: includes/class-listeo-core-admin.php:296
+#: includes/class-listeo-core-settings.php:171
+msgid "Egyptian Pound"
+msgstr ""
+
+#: includes/class-listeo-core-reviews.php:157
+#: includes/class-listeo-core-widgets.php:1440 templates/account/login.php:161
+msgid "Email"
+msgstr ""
+
+#: templates/account/login-form.php:122
+msgid "Email Address"
+msgstr "Adres e-mail"
+
+#: templates/account/lost_password.php:28
+msgid "Email Address:"
+msgstr "Adres e-mail:"
+
+#: includes/class-listeo-core-admin.php:1539
+msgid "Email notification about new conversation"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1570
+msgid "Email notification about new message"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1115
+msgid "Email settings."
+msgstr ""
+
+#: includes/class-listeo-core-ical.php:287
+msgid "Email: "
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1114
+msgid "Emails"
+msgstr ""
+
+#: includes/class-listeo-core-messages.php:175
+msgid "Empty message"
+msgstr ""
+
+#: includes/class-listeo-core-search.php:1424
+#: includes/class-listeo-core-search.php:1486
+#: templates/archive/top-buttons.php:97 templates/search-form/slider.php:81
+msgid "Enable"
+msgstr "Włącz"
+
+#: includes/class-listeo-core-admin.php:1513
+msgid "Enable Booking cancellation notification email"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1291
+#: includes/class-listeo-core-admin.php:1418
+#: includes/class-listeo-core-admin.php:1451
+msgid "Enable Booking confirmation notification email"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1482
+msgid "Enable Booking paid confirmation notification email"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1354
+msgid "Enable Booking request notification email"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:518
+msgid "Enable Contact Widget"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:980
+msgid "Enable End Hour time-picker"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1231
+msgid "Enable expired listing notification email"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1261
+msgid "Enable Expiring soon listing notification email"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:809
+msgid "Enable Forced Front End Login"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:416
+#: includes/class-listeo-core-submit.php:955
+msgid "Enable Instant Booking"
+msgstr "Zezwól na natychmiastową rezerwację"
+
+#: includes/class-listeo-core-admin.php:1322
+msgid "Enable Instant Booking confirmation notification email"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1386
+msgid "Enable Instant Booking notification email"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1172
+msgid "Enable listing published notification email"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1544
+msgid "Enable new conversation notification email"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1203
+msgid "Enable new listing notification email"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1575
+msgid "Enable new message notification email"
+msgstr ""
+
+#: templates/archive-listing.php:32
+msgid "Enable or disable scrolling on map"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:411
+#: includes/class-listeo-core-submit.php:967
+msgid "Enable Price per Guest"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:832
+msgid "Enable Privacy Policy link in registration form"
+msgstr ""
+
+#: includes/class-listeo-core-search.php:1400
+msgid "Enable Radius"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:838
+msgid "Enable reCAPTCHA on registration form"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:844
+msgid "Enable reCAPTCHA on reviews form"
+msgstr ""
+
+#: templates/archive-listing.php:32 templates/archive/map.php:24
+msgid "Enable Scrolling"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:916
+msgid ""
+"Enable to add password field, when disabled it will be randomly generated "
+"and sent via email"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:480
+msgid "Enable to use Retina Tiles. Might affect map loading speed."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:762
+#: includes/class-listeo-core-admin.php:773
+#: includes/class-listeo-core-admin.php:784
+msgid "Enabled"
+msgstr "Włączone"
+
+#: includes/class-listeo-core-admin.php:536
+msgid "Enabled by default"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:810
+msgid ""
+"Enabling this option will redirect all wp-login request to frontend form. Be "
+"aware that on some servers or some configuration, especially with security "
+"plugins, this might cause a redirect loop, so always test this setting on "
+"different browser, while being still logged in Dashboard to have option to "
+"disable that if things go wrong."
+msgstr ""
+
+#: includes/class-listeo-core-bookings-admin.php:223
+msgid "End date"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:907
+msgid "End Time"
+msgstr ""
+
+#. translators: %s: link to codex.wordpress.org/Embeds
+#: lib/cmb2/example-functions.php:415
+#, php-format
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at %s."
+msgstr ""
+
+#: templates/archive/keyword-search.php:10
+msgid "Enter address e.g. street, city and state or zip"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:518
+msgid "Entry Image"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:504
+msgid "Entry Title"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:489
+msgid "Entry {#}"
+msgstr ""
+
+#: includes/class-listeo-core-bookings-admin.php:302
+msgid "Error while updating"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:259
+#: includes/class-listeo-core-settings.php:137
+msgid "Euros"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:576
+#: includes/class-listeo-core-meta-boxes.php:108
+#: includes/class-listeo-core-post-types.php:629
+#: listeo-core-template-functions.php:374 templates/listing-submit-type.php:50
+msgid "Event"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:386
+msgid "Event Available Tickets"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:379
+msgid "Event Category"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:382
+msgctxt "Event Category slug - resave permalinks after changing this"
+msgid "events-category"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:780
+#: includes/class-listeo-core-submit.php:785
+msgid "Event Date"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:1158
+msgid "Event date"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:796
+msgid "Event Date End"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:487
+msgid "Event date:"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:493
+msgid "Event end:"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:484
+msgid "Event fields"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:380
+msgid "Events Categories"
+msgstr "Liczba miejsc siedzących"
+
+#: includes/class-listeo-core-ical.php:217
+msgid "Events from calendars were imported"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:704
+msgid "Example field"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:707
+msgid "Example field description"
+msgstr ""
+
+#: lib/cmb2-tabs/example.php:9 lib/cmb2-tabs/example.php:109
+msgid "Example tabs"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:86
+msgid "Expiration date"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:897
+#, php-format
+msgid "Expire %s"
+msgstr ""
+
+#: listeo-core-template-functions.php:770
+#: templates/booking/content-user-booking.php:72
+msgid "Expired"
+msgstr "Wygasł"
+
+#: includes/class-listeo-core-post-types.php:321
+#, php-format
+msgid "Expired <span class=\"count\">(%s)</span>"
+msgid_plural "Expired <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-listeo-core-admin.php:1226
+msgid "Expired listing notification email"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1243
+msgid "Expired listing notification email content"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1237
+msgid "Expired listing notification email subject"
+msgstr ""
+
+#: templates/account/my_listings.php:48
+msgid "Expired Listings"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:604
+#: includes/class-listeo-core-widgets.php:1858
+msgid "Expires"
+msgstr ""
+
+#: includes/class-listeo-core-bookings-admin.php:358
+msgid "Expiring date"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1256
+msgid "Expiring listing in next 5 days notification email "
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1273
+msgid "Expiring soon listing notification email content"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1267
+msgid "Expiring soon listing notification email subject"
+msgstr ""
+
+#: templates/account/my_listings.php:85
+msgid "Expiring: "
+msgstr "Ogłoszenie ważne do:"
+
+#: templates/account/coupons.php:53
+msgid "Expiry Date"
+msgstr ""
+
+#: templates/account/coupons.php:24
+msgid "Expiry date"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:550 lib/cmb2/example-functions.php:620
+msgid "Extra Info"
+msgstr ""
+
+#: includes/class-listeo-core-users.php:1166
+msgid "Extra profile information"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:927
+#: includes/class-listeo-core-widgets.php:1047
+msgid "Extra Services"
+msgstr "Dodatkowe wyposażenie"
+
+#: templates/booking/content-booking.php:232
+#: templates/booking/content-user-booking.php:241
+msgid "Extra Services:"
+msgstr ""
+"Dodatkowe wyposażenie:\n"
+
+#: includes/class-listeo-core-meta-boxes.php:599
+msgid "Facebook"
+msgstr ""
+
+#: includes/class-listeo-core-users.php:780 lib/cmb2/example-functions.php:565
+msgid "Facebook URL"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:503
+msgid "Feature"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings.php:91
+msgid "Feature Listing?"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-add-package.php:100
+msgid "Feature Listings?"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:506
+msgctxt "Feature slug - resave permalinks after changing this"
+msgid "listing-feature"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings.php:92
+msgid "Feature this listing - it will have a badge and sticky status."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:331
+#: includes/class-listeo-core-meta-boxes.php:329
+#: templates/archive/top-buttons.php:117
+#: templates/content-listing-compact-shortcode.php:12
+#: templates/content-listing-compact.php:22
+#: templates/content-listing-grid.php:25 templates/content-listing.php:15
+#: templates/listing-submit-package.php:107
+#: templates/listing-widget-content.php:8 templates/search-form/sortby.php:11
+msgid "Featured"
+msgstr "Wyposażenie"
+
+#: includes/class-listeo-core-meta-boxes.php:317
+#: templates/content-listing-compact-shortcode.php:7
+msgid "Featured Listing"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:227
+#: includes/class-listeo-core-widgets.php:231
+msgid "Featured Properties"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:605
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-packages.php:90
+msgid "Featured?"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:504
+#: includes/class-listeo-core-post-types.php:1029
+#: includes/class-listeo-core-search.php:1038
+#: templates/single-partials/single-listing-features.php:5
+msgid "Features"
+msgstr "Wyposażenie"
+
+#: includes/class-listeo-core.php:432
+msgid "February"
+msgstr "Luty"
+
+#: templates/account/wallet.php:60 templates/account/wallet.php:76
+msgid "Fee"
+msgstr "Opłata serwisowa dla portalu"
+
+#: lib/cmb2/example-functions.php:131 lib/cmb2/example-functions.php:144
+#: lib/cmb2/example-functions.php:157 lib/cmb2/example-functions.php:164
+#: lib/cmb2/example-functions.php:177 lib/cmb2/example-functions.php:185
+#: lib/cmb2/example-functions.php:194 lib/cmb2/example-functions.php:202
+#: lib/cmb2/example-functions.php:217 lib/cmb2/example-functions.php:225
+#: lib/cmb2/example-functions.php:233 lib/cmb2/example-functions.php:250
+#: lib/cmb2/example-functions.php:259 lib/cmb2/example-functions.php:275
+#: lib/cmb2/example-functions.php:282 lib/cmb2/example-functions.php:289
+#: lib/cmb2/example-functions.php:303 lib/cmb2/example-functions.php:316
+#: lib/cmb2/example-functions.php:329 lib/cmb2/example-functions.php:341
+#: lib/cmb2/example-functions.php:350 lib/cmb2/example-functions.php:358
+#: lib/cmb2/example-functions.php:367 lib/cmb2/example-functions.php:374
+#: lib/cmb2/example-functions.php:388 lib/cmb2/example-functions.php:460
+#: lib/cmb2/example-functions.php:551 lib/cmb2/example-functions.php:559
+#: lib/cmb2/example-functions.php:566 lib/cmb2/example-functions.php:573
+#: lib/cmb2/example-functions.php:580 lib/cmb2/example-functions.php:587
+#: lib/cmb2/example-functions.php:594 lib/cmb2/example-functions.php:621
+#: lib/cmb2/example-functions.php:629 lib/cmb2/example-functions.php:636
+#: lib/cmb2/example-functions.php:682
+msgid "field description (optional)"
+msgstr ""
+
+#: includes/class-listeo-core.php:374
+msgid "File is too big ({{filesize}}MiB). Max filesize: {{maxFilesize}}MiB."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Field_Display.php:432
+#: lib/cmb2/includes/CMB2_JS.php:204
+#: lib/cmb2/includes/types/CMB2_Type_File_Base.php:78
+msgid "File:"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:1194 templates/booking.php:348
+msgid "Final Cost"
+msgstr ""
+
+#: templates/form-fields/text.php:33 templates/search-form/location.php:16
+msgid "Find My Location"
+msgstr "Znajdź moją lokalizację"
+
+#: includes/class-listeo-core-widgets.php:572
+msgid "Find New Home"
+msgstr ""
+
+#: templates/account/login-form.php:108 templates/account/login.php:167
+#: templates/booking.php:45 templates/my-account.php:62
+msgid "First Name"
+msgstr "Imię"
+
+#: templates/account/coupon-submit.php:98
+msgid "Fixed product discount"
+msgstr ""
+
+#: templates/form-fields/floorplans.php:30
+#: templates/form-fields/floorplans.php:64
+msgid "Floorplan Title"
+msgstr ""
+
+#: templates/listing-submit-package.php:134
+#, php-format
+msgid "for %s day"
+msgid_plural "for %s days"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: templates/account/coupon-submit.php:164
+msgid "For products:"
+msgstr ""
+
+#: listeo-core-template-functions.php:409
+msgid "For Rent"
+msgstr ""
+
+#: listeo-core-template-functions.php:405
+msgid "For Sale"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:791
+msgid "For taxonomy search use logical relation:"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:947
+#: includes/class-listeo-core-widgets.php:1066
+#: listeo-core-template-functions.php:2247
+#: listeo-core-template-functions.php:2250 templates/booking.php:289
+#: templates/single-partials/single-listing-pricing.php:55
+#: templates/single-partials/single-listing-pricing.php:71
+msgid "Free"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1413
+msgid "Free booking confirmation to user"
+msgstr ""
+
+#: includes/class-listeo-core-calendar.php:115
+msgid "FRI"
+msgstr "Pt."
+
+#: includes/class-listeo-core-bookings-calendar.php:798
+#: includes/class-listeo-core-widgets.php:701
+#: listeo-core-template-functions.php:1350
+#: listeo-core-template-functions.php:1896 templates/form-fields/slots.php:9
+msgid "Friday"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:722
+#: includes/class-listeo-core-submit.php:730
+#: includes/class-listeo-core-submit.php:1224
+#: includes/class-listeo-core-submit.php:1232
+msgid "Friday Opening Hour"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:395
+msgid "Friendly Address"
+msgstr ""
+
+#: includes/class-listeo-core.php:392
+msgid "From"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:540
+#: includes/class-listeo-core-submit.php:443
+#: includes/class-listeo-core-submit.php:448 templates/listing-preview.php:61
+#: templates/single-listing.php:177
+#: templates/single-partials/single-listing-gallery-content.php:8
+msgid "Gallery"
+msgstr "Galeria"
+
+#: includes/class-listeo-core-meta-boxes.php:543
+msgid "Gallery display layout"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:669
+#: includes/class-listeo-core-meta-boxes.php:550
+msgid "Gallery in content"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:549
+msgid "Gallery on top"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:668
+msgid "Gallery on top (requires minimum 4 photos)"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:206
+msgid "General"
+msgstr ""
+
+#: templates/account/coupon-submit.php:48
+msgid "General Coupon Settings"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:207
+msgid "General Listeo settings."
+msgstr ""
+
+#: includes/class-listeo-core-reviews.php:341
+msgid "General Rating"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:466
+msgid "Generate Access Token for MapBox"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:523
+msgid ""
+"Generate API key for geocoding search functionality (without any domain/key "
+"restriction)."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:458
+msgid ""
+"Generate API key for google maps functionality (can be domain restricted)."
+msgstr ""
+
+#: includes/class-listeo-core-settings.php:187
+msgid "Generate API key for google maps functionality."
+msgstr ""
+
+#: lib/cmb2/example-functions.php:487
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:1851
+#, php-format
+msgid "Get %1$s%% discount!"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:1849
+#, php-format
+msgid "Get %1$s%2$s discount!"
+msgstr ""
+
+#: templates/single-partials/single-listing-location.php:40
+msgid "Get Direction"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:862
+#: includes/class-listeo-core-admin.php:868
+msgid ""
+"Get the sitekey from https://www.google.com/recaptcha/admin#list - use "
+"reCaptcha v2"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:874
+#: includes/class-listeo-core-admin.php:880
+msgid ""
+"Get the sitekey from https://www.google.com/recaptcha/admin#list - use "
+"reCaptcha v3"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:260
+msgid "Ghanaian Cedi"
+msgstr ""
+
+#: templates/booking-success.php:36
+msgid "Go to My Bookings"
+msgstr "Idź do: Moje rezerwacje"
+
+#: includes/class-listeo-core-admin.php:447
+msgid ""
+"Google Maps <a href=\"http://www.docs.purethemes.net/listeo/knowledge-"
+"base/getting-google-maps-api-key/\">(requires API key and Maps Provider set "
+"to Google Maps)</a>"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:428
+msgid ""
+"Google Maps <a href=\"http://www.docs.purethemes.net/listeo/knowledge-"
+"base/getting-google-maps-api-key/\">(requires API key)</a>"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:458
+msgid "Google Maps Address"
+msgstr "Google Maps Adres"
+
+#: includes/class-listeo-core-admin.php:457
+#: includes/class-listeo-core-admin.php:461
+#: includes/class-listeo-core-admin.php:526
+#: includes/class-listeo-core-settings.php:186
+msgid "Google Maps API key"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:522
+msgid "Google Maps API key for server side geocoding"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:579
+msgid "Google+ URL"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:891
+#: includes/class-listeo-core-users.php:175 includes/class-listeo-core.php:914
+#: templates/account/login-form.php:76 templates/my-account.php:56
+msgid "Guest"
+msgstr "Gość"
+
+#: includes/class-listeo-core-users.php:2427
+msgid "guest"
+msgstr "gość"
+
+#: includes/class-listeo-core-admin.php:716
+msgid "Guest picker will be removed from booking widget"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:949
+msgid "Guest redirect after login to page"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:942
+msgid "Guest redirect after registration to page"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:993
+#: includes/class-listeo-core-widgets.php:997 templates/booking.php:235
+msgid "Guests"
+msgstr "Ilość pojazdów:"
+
+#: includes/class-listeo-core-activities-log.php:255
+msgid "has been approved!"
+msgstr "został zaakceptowany!"
+
+#: includes/class-listeo-core-widgets.php:1101 templates/booking.php:315
+msgid "Have a coupon?"
+msgstr "Posiadasz kupon zniżkowy?"
+
+#: templates/emails/footer.php:20
+msgid "Have a question?"
+msgstr "Masz pytania?"
+
+#: includes/class-listeo-core-reviews.php:910
+#: includes/class-listeo-core-reviews.php:916
+#: listeo-core-template-functions.php:1333
+msgid "Helpful Review "
+msgstr "Pomocna recenzja"
+
+#: includes/class-listeo-core-admin.php:432
+msgid ""
+"HERE <a href=\"https://developer.here.com/lp/mapAPIs?create=Freemium-"
+"Basic&keepState=true&step=account\">(requires API key)</a>"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:507
+#: includes/class-listeo-core-admin.php:511
+msgid "HERE App Code"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:500
+#: includes/class-listeo-core-admin.php:501
+msgid "HERE App ID"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:504
+msgid "HERE Maps API Key"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:167
+msgid "Hey there, I'm a read-only field"
+msgstr ""
+
+#: templates/account/my_listings.php:169
+msgid "Hide"
+msgstr "Ukryj"
+
+#: includes/class-listeo-core-admin.php:356
+msgid "Hide all owner contact information"
+msgstr "Ukryj wszystkie dane kontaktowe właściciela"
+
+#: templates/archive-listing-split.php:14 templates/archive-listing.php:35
+msgid "Hide Map "
+msgstr "Ukryj mapę"
+
+#: includes/class-listeo-core-meta-boxes.php:187
+#: includes/class-listeo-core-submit.php:1096
+msgid ""
+"Hide pricing table on listing page but show bookable services in booking "
+"widget"
+msgstr ""
+"Ukryj tabelę cen na stronie z listą, ale pokaż usługi rezerwacji w widżecie "
+"rezerwacji"
+
+#: includes/class-listeo-core-admin.php:701
+msgid "Hide real address on listings and lists"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:896
+msgid "Hide Role field in Registration Form"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:902
+msgid "Hide Username field in Registration Form"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:332
+#: templates/archive/top-buttons.php:112 templates/search-form/sortby.php:6
+msgid "Highest Rated"
+msgstr "Najwyżej oceniany"
+
+#: templates/account/wallet.php:136
+msgid "holders name & address, account number, bank name, IBAN, BIC/SWIFT"
+msgstr "dane właściciela, adres, nr. konta, IBAN, SWIFT"
+
+#: includes/class-listeo-core-admin.php:261
+#: includes/class-listeo-core-settings.php:138
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:1429
+msgid "Hosted By"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:189
+msgid "Hour"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:948
+msgid "hours"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-add-package.php:92
+msgid "How many days should listings posted with this package be active?"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:941
+msgid "How many hours you can wait for clients payment"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-add-package.php:83
+msgid "How many listings has the user already posted with this package?"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-add-package.php:74
+msgid "How many listings should this package allow the user to post?"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:885
+msgid "How many ticekts you have to offer"
+msgstr ""
+
+#: listeo-core-template-functions.php:858
+msgid "Howdy, "
+msgstr "Cześć,"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.purethemes.net/"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:400
+msgid "Human readable address, if not set, the Google address will be used"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:263
+#: includes/class-listeo-core-settings.php:140
+msgid "Hungarian Forint"
+msgstr ""
+
+#: templates/account/login-form.php:159
+msgid "I agree to the"
+msgstr "Zgadzam się z "
+
+#: includes/class-listeo-core-users.php:172
+msgid "I want to register as"
+msgstr ""
+
+#: templates/account/my_listings.php:151
+msgid "iCal"
+msgstr ""
+
+#: templates/account/my_listings.php:154
+msgid "iCal Export"
+msgstr "iCal Eksport"
+
+#: templates/account/my_listings.php:104
+#, php-format
+msgid "iCal file for %s"
+msgstr "iCal plik dla %s"
+
+#: includes/class-listeo-core-admin.php:1082
+msgid "iCal generator"
+msgstr ""
+
+#: templates/account/my_listings.php:118 templates/account/my_listings.php:157
+msgid "iCal Import"
+msgstr "iCal import"
+
+#: includes/class-listeo-core-bookings-admin.php:151
+#: includes/class-listeo-core-bookings-admin.php:160
+msgid "iCal import"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:264
+#: includes/class-listeo-core-settings.php:141
+msgid "Icelandic krona"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:998
+msgid "Icon"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:979
+#: includes/class-listeo-core-meta-boxes.php:1037
+msgid "Icon will be displayed in categories grid view"
+msgstr ""
+
+#: includes/class-listeo-core-bookings-admin.php:218
+#: includes/class-listeo-core-payouts.php:625
+msgid "ID"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:897
+msgid ""
+"If hidden, set default role in Settings -> General -> New User Default Role"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:982
+msgid ""
+"If you are not using slots, you can allow guest to set end time for booking "
+"by enabling that option "
+msgstr ""
+
+#: templates/listing-sign-in.php:3
+msgid ""
+"If you don't have an account please register using form below. A password "
+"will be automatically emailed to you."
+msgstr ""
+"Jeśli nie masz założonego konta, prosimy wypełnić poniższy formularz. Hasło "
+"będzie wygenerowane automatycznie i wysłane na maila. "
+
+#: includes/class-listeo-core-admin.php:571
+msgid ""
+"If you select one it will be the default type and Choose Listing Type step "
+"in Submit Listing form will be skipped. If you deselect all the default type "
+"will always be Service"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:886
+msgid ""
+"If you set it hidden, set default role in Settings -> General -> New User "
+"Default Role"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:524
+msgid "Image Caption"
+msgstr ""
+
+#: includes/class-listeo-core-ical.php:248
+msgid "Import manually all calendars now"
+msgstr ""
+
+#: templates/account/my_listings.php:128
+msgid "Import New Calendar"
+msgstr ""
+
+#: includes/class-listeo-core-ical.php:237
+msgid "Imported Calendars"
+msgstr ""
+
+#: templates/account/messages.php:11
+msgid "Inbox"
+msgstr "Skrzynka"
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid ""
+"Includes the box object which the fields are registered to in the response."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid ""
+"Includes the fully rendered attributes, 'form_open', 'form_close', as well "
+"as the enqueued 'js_dependencies' script handles, and 'css_dependencies' "
+"stylesheet handles."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+msgid "Includes the registered fields for the box in the response."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:266
+#: includes/class-listeo-core-settings.php:143
+msgid "Indian Rupee"
+msgstr ""
+
+#: templates/account/coupon-submit.php:191
+msgid "Individual use only"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:265
+#: includes/class-listeo-core-settings.php:142
+msgid "Indonesia Rupiah"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:614
+#: includes/class-listeo-core-users.php:783
+msgid "Instagram"
+msgstr ""
+
+#: templates/content-listing-grid.php:28 templates/content-listing.php:79
+msgid "Instant Booking"
+msgstr "Rezerwacja natychmiastowa"
+
+#: includes/class-listeo-core-admin.php:1336
+msgid "Instant Booking confirmation notification email content"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1328
+msgid "Instant Booking confirmation notification email subject"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1317
+msgid "Instant Booking confirmation to user"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1400
+msgid "Instant Booking notification email content"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1392
+msgid "Instant Booking notification email subject"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:506
+#: lib/cmb2/includes/types/CMB2_Type_Base.php:133
+#, php-format
+msgid "Invalid %1$s method: %2$s"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:491
+#: lib/cmb2/includes/CMB2_Hookup_Base.php:100
+#: lib/cmb2/includes/CMB2_Options_Hookup.php:286
+#: lib/cmb2/includes/types/CMB2_Type_Base.php:149
+#, php-format
+msgid "Invalid %1$s property: %2$s"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:1742
+#: includes/class-listeo-core-submit.php:1745
+#: includes/class-listeo-core-submit.php:1751
+msgid "Invalid Package"
+msgstr ""
+
+#: includes/class-listeo-core-users.php:1525
+msgid "Invalid password reset link."
+msgstr "Nieprawidłowy e-mail."
+
+#: includes/class-listeo-core-admin.php:268
+#: includes/class-listeo-core-settings.php:145
+msgid "Israeli Shekel"
+msgstr ""
+
+#: includes/class-listeo-core-ical.php:114
+msgid "It look's like you've already added that calendar URL"
+msgstr ""
+
+#: includes/class-listeo-core-ical.php:107
+msgid "It look's like you've already calendar with that name"
+msgstr ""
+
+#: templates/account/single_message.php:136
+msgid "It's not your converstation!"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:179
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: includes/class-listeo-core.php:431
+msgid "January"
+msgstr "Styczeń"
+
+#: lib/cmb2/includes/CMB2_JS.php:178
+msgid ""
+"January, February, March, April, May, June, July, August, September, October,"
+" November, December"
+msgstr ""
+"Styczeń, Luty, Marzec, Kwiecień, Maj, Czerwiec, Lipiec, Sierpień, Wrzesień, "
+"Październik, Listopad, Grudzień"
+
+#: includes/class-listeo-core-admin.php:269
+#: includes/class-listeo-core-settings.php:146
+msgid "Japanese Yen"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-add-package.php:64
+msgid "Job Package"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:174
+msgctxt "Job permalink - resave permalinks after changing this"
+msgid "listing"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:270
+msgid "Jordanian Dinar"
+msgstr ""
+
+#: includes/class-listeo-core.php:437
+msgid "July"
+msgstr "Lipiec"
+
+#: includes/class-listeo-core.php:436
+msgid "June"
+msgstr "Czerwiec"
+
+#: includes/class-listeo-core-admin.php:271
+msgid "Kazakhstani tenge"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:123
+#: includes/class-listeo-core-submit.php:351
+msgid "Keywords"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:546
+msgid "km"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:272
+#: includes/class-listeo-core-settings.php:147
+msgid "Lao Kip"
+msgstr ""
+
+#: includes/class-listeo-core.php:400
+msgid "Last 30 Days"
+msgstr "Ostatnie 30 dni"
+
+#: includes/class-listeo-core.php:399
+msgid "Last 7 Days"
+msgstr "Ostatnie 7 dni"
+
+#: includes/class-listeo-core.php:402
+msgid "Last Month"
+msgstr "Ostatni miesiąc"
+
+#: templates/account/login-form.php:114 templates/account/login.php:173
+#: templates/booking.php:50 templates/my-account.php:65
+msgid "Last Name"
+msgstr "Nazwisko"
+
+#: includes/class-listeo-core-meta-boxes.php:464
+#: includes/class-listeo-core-submit.php:430
+msgid "Latitude"
+msgstr ""
+
+#: templates/account/coupon-submit.php:164
+msgid "Leave empty to apply for all your listings"
+msgstr ""
+
+#: includes/class-listeo-core-activities-log.php:275
+msgid "left a review"
+msgstr "zostaw recenzję"
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-packages.php:88
+msgid "Limit"
+msgstr ""
+
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:290
+msgid "Limit results to those matching a string."
+msgstr ""
+
+#: includes/class-listeo-core-users.php:782
+msgid "Linkedin"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:586
+msgid "Linkedin URL"
+msgstr ""
+
+#: templates/account/dashboard.php:120 templates/account/my_packages.php:25
+#: templates/listing-submit-package.php:56
+#, php-format
+msgid "listed for %s day"
+msgid_plural "listed for %s days"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-listeo-core-widgets.php:650
+msgid "Listeo Booking Form"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:330
+msgid "Listeo Bookmarks & Share"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:459
+msgid "Listeo Contact Widget"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:151
+msgid "Listeo Core"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:151
+msgid "Listeo Core "
+msgstr ""
+
+#: includes/class-listeo-core-settings.php:70
+#: includes/class-listeo-core-settings.php:71
+msgid "Listeo Core Settings"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:1774
+msgid "Listeo Coupon Widget "
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:1230
+msgid "Listeo Opening Hours"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:1425
+msgid "Listeo Owner Widget"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:1637
+msgid "Listeo Recent Posts"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:568
+msgid "Listeo Search Form"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Listeo-Core - Directory Plugin by Purethemes"
+msgstr ""
+
+#: includes/class-listeo-core-users.php:1142
+msgid "Listeo_Core Avatar"
+msgstr ""
+
+#: includes/class-listeo-core-activities-log.php:234
+#: includes/class-listeo-core-activities-log.php:239
+#: includes/class-listeo-core-activities-log.php:248
+#: includes/class-listeo-core-bookings-admin.php:221
+#: includes/class-listeo-core-post-types.php:260
+msgid "Listing"
+msgstr "Ogłoszenie"
+
+#: includes/class-listeo-core-activities-log.php:222
+#: includes/class-listeo-core-activities-log.php:228
+msgid "listing"
+msgstr "oferta"
+
+#: includes/class-listeo-core-meta-boxes.php:78
+msgid "Listing admin data"
+msgstr ""
+
+#: includes/class-listeo-core-permalinks.php:60
+msgid "Listing base"
+msgstr ""
+
+#: includes/class-wc-product-listing-booking.php:13
+msgid "Listing Booking"
+msgstr ""
+
+#: includes/class-listeo-core-permalinks.php:67
+msgid "Listing category base"
+msgstr ""
+
+#: includes/class-listeo-core-permalinks.php:99
+msgctxt "Listing category slug"
+msgid "listing-category"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:175
+msgctxt "Listing category slug - resave permalinks after changing this"
+msgid "listing-category"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-add-package.php:82
+msgid "Listing Count"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-add-package.php:91
+msgid "Listing Duration"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:621
+#: includes/paid-listings/class-listeo-core-paid-listings.php:77
+msgid "Listing duration"
+msgstr "Czas trwania ogłoszenia"
+
+#: includes/class-listeo-core-meta-boxes.php:132
+msgid "Listing fields"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:555
+msgid "Listing gallery"
+msgstr ""
+
+#: templates/single-listing.php:45 templates/single-listing.php:258
+msgid "Listing has been verified and belongs to the business owner or manager."
+msgstr ""
+
+#: includes/class-listeo-core-bookings-admin.php:328
+msgid "Listing id"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:641
+msgid "Listing image maximum size (in MB)"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:628
+msgid "Listing images upload limit"
+msgstr "Limit przesyłania zdjęć "
+
+#: includes/class-listeo-core-meta-boxes.php:116
+msgid "Listing keywords"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-add-package.php:73
+msgid "Listing Limit"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings.php:63
+msgid "Listing limit"
+msgstr ""
+
+#: includes/class-listeo-core-settings.php:112
+msgid "Listing Options"
+msgstr ""
+
+#: includes/paid-listings/class-wc-product-listing-package.php:13
+msgid "Listing Package"
+msgstr ""
+
+#: includes/paid-listings/class-wc-product-listing-package.php:15
+msgid "Listing Package Subscription"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin.php:53
+#: includes/paid-listings/class-listeo-core-paid-listings-admin.php:84
+msgid "Listing Packages"
+msgstr ""
+
+#: includes/class-listeo-core-permalinks.php:89
+msgctxt "Listing permalink placeholder"
+msgid "listing"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1167
+msgid "Listing Published notification email"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:919
+msgid "Listing Taxonomy Meta"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:771
+msgid "Listing Timezone"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:287
+msgid "Listing Title"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-cart.php:118
+#: includes/paid-listings/class-listeo-core-paid-listings-cart.php:137
+#: includes/paid-listings/class-listeo-core-paid-listings-cart.php:155
+msgid "Listing title"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:101
+msgid "Listing Type"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:95
+msgid "Listing type"
+msgstr ""
+
+#: includes/class-listeo-core-bookmarks.php:68
+msgid "Listing was bookmarked"
+msgstr "Ogłoszenie zostało dodane do ulubionych!"
+
+#: includes/class-listeo-core-bookmarks.php:108
+msgid "Listing was removed from the list"
+msgstr "Oferta została usunięta"
+
+#: includes/class-listeo-core-post-types.php:259
+#: includes/class-listeo-core-post-types.php:267
+msgid "Listings"
+msgstr "Ogłoszenia"
+
+#: includes/class-listeo-core-permalinks.php:75
+msgid "Listings archive page"
+msgstr ""
+
+#: templates/listing-submit-package.php:134
+msgid "Listings are visible "
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:1188
+#: includes/class-listeo-core-submit.php:2554
+msgid "Listings category"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:386
+msgid "Listings map center point"
+msgstr ""
+
+#: includes/class-listeo-core.php:588
+msgid "Listings sidebar"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:449
+#: includes/class-listeo-core-search.php:981
+#: includes/class-listeo-core-search.php:1070
+#: includes/class-listeo-core-search.php:1180
+#: includes/class-listeo-core-search.php:1216
+#: includes/class-listeo-core-submit.php:378
+#: listeo-core-template-functions.php:83 templates/listing-preview.php:70
+#: templates/single-listing.php:195
+#: templates/single-partials/single-listing-location.php:35
+msgid "Location"
+msgstr "Lokalizacja"
+
+#: templates/account/login-form.php:3 templates/account/login.php:98
+msgid "Log In"
+msgstr "Zaloguj się"
+
+#: templates/account/navigation.php:68
+msgid "Log Out"
+msgstr ""
+
+#: templates/account/login-form.php:42
+msgid "Login"
+msgstr "Logowanie"
+
+#: includes/class-listeo-core-users.php:270
+msgid "Login successful, redirecting..."
+msgstr "Logowanie powiodło się, trwa przekierowanie ..."
+
+#: includes/class-listeo-core-widgets.php:1151
+msgid "Login To Book"
+msgstr "Zaloguj się, aby zarezerwować"
+
+#: includes/class-listeo-core-widgets.php:1146
+msgid "Login to Book"
+msgstr "Zaloguj się, aby zarezerwować"
+
+#: includes/class-listeo-core-widgets.php:394
+#: includes/class-listeo-core-widgets.php:397
+#: templates/content-listing-compact.php:86
+#: templates/content-listing-grid.php:94 templates/content-listing.php:118
+msgid "Login To Bookmark Items"
+msgstr "Zaloguj się, aby dodać do ulubionych"
+
+#: includes/class-listeo-core-admin.php:815
+msgid "Login/Registration Form Type"
+msgstr ""
+
+#: templates/account/logged_section.php:69
+msgid "Logout"
+msgstr "Wyloguj się"
+
+#: includes/class-listeo-core-meta-boxes.php:469
+#: includes/class-listeo-core-submit.php:419
+msgid "Longitude"
+msgstr ""
+
+#: templates/compare-listings.php:13
+msgid "Looks like you haven't add anything to compare yet!"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1040
+msgid "Lost Password Page"
+msgstr ""
+
+#: templates/account/login-form.php:36 templates/account/login.php:138
+msgid "Lost Your Password?"
+msgstr "Zapomniałeś hasła?"
+
+#: includes/class-listeo-core-post-types.php:659
+msgid "M j, Y"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:965
+msgid "Main Dashboard page for user, content: [listeo_dashboard]"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:972
+msgid "Main page for user messages, content: [listeo_messages]"
+msgstr ""
+
+#: includes/class-listeo-core-users.php:307
+#: includes/class-listeo-core-widgets.php:1128
+msgid "Make a Reservation"
+msgstr "Zarezerwuj"
+
+#: includes/class-listeo-core-admin.php:769
+msgid "Make features taxonomy related to categories"
+msgstr ""
+
+#: includes/class-listeo-core-commissions.php:555
+msgid "Make Payout"
+msgstr "Zrób wypłatę"
+
+#: includes/class-listeo-core-admin.php:275
+#: includes/class-listeo-core-settings.php:150
+msgid "Malaysian Ringgits"
+msgstr ""
+
+#: templates/account/navigation.php:13
+msgid "Manage Account"
+msgstr ""
+
+#: includes/class-listeo-core-bookings-admin.php:459
+msgid "Manage Bookings"
+msgstr "Zarządzaj rezerwacjami"
+
+#: templates/account/navigation.php:29
+msgid "Manage Listings"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:374
+msgid "Map Settings"
+msgstr "Ustawienia map"
+
+#: includes/class-listeo-core-admin.php:429
+msgid ""
+"MapBox <a href=\"https://account.mapbox.com/access-tokens/create\">(requires "
+"API key)</a>"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:465
+msgid "MapBox Access Token"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:469
+msgid "MapBox Access Token key"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:479
+msgid "MapBox Retina Tiles"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:472
+msgid "MapBox Studio Style URL"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:476
+msgid "MapBox Style URL"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:422
+msgid "Maps Provider"
+msgstr ""
+
+#: includes/class-listeo-core.php:433
+msgid "March"
+msgstr "Marzec"
+
+#: templates/search-form/double-input.php:33
+#: templates/search-form/double-input.php:35
+msgid "Max"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:642
+msgid "Maximum file size to upload "
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:421
+#: includes/class-listeo-core-submit.php:1007
+msgid "Maximum number of guests"
+msgstr ""
+
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:281
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:353
+msgid "Maximum of 15 keywords related with your business, separated by coma"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:612
+msgid "Maximum Price Range"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:524
+msgid "Maximum Price Range:"
+msgstr ""
+
+#: templates/account/coupon-submit.php:141
+msgid "Maximum spend"
+msgstr ""
+
+#: includes/class-listeo-core.php:435
+msgid "May"
+msgstr "Maj"
+
+#: includes/class-listeo-core-meta-boxes.php:196
+#: includes/class-listeo-core.php:395
+msgid "Menu"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:175
+msgid "Menu (Pricing)"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:211
+msgid "Menu Items"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:816
+msgid "Menu status"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:205
+msgid "Menu Title"
+msgstr ""
+
+#: templates/booking.php:99
+msgid "Message"
+msgstr "Wiadomość"
+
+#: includes/class-listeo-core-messages.php:161
+#: includes/class-listeo-core-messages.php:200
+msgid "Message couldn't be send"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:463
+msgid "Message Vendor"
+msgstr ""
+
+#: templates/booking/content-booking.php:238
+#: templates/booking/content-user-booking.php:247
+msgid "Message:"
+msgstr "Wiadomość:"
+
+#: templates/account/logged_section.php:47
+msgid "Messages"
+msgstr "Wiadomości"
+
+#: includes/class-listeo-core-admin.php:971
+msgid "Messages Page"
+msgstr "Wiadomości"
+
+#: lib/cmb2/includes/CMB2.php:176
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr ""
+
+#. translators: %s: register_routes()
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:25
+#, php-format
+msgid "Method '%s' must be overridden."
+msgstr ""
+
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:35
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:47
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:59
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:71
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:83
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:95
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:107
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:119
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:131
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:143
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:155
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:168
+#, php-format
+msgid "Method '%s' not implemented. Must be overridden in subclass."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:276
+#: includes/class-listeo-core-settings.php:151
+msgid "Mexican Peso"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:547
+msgid "miles"
+msgstr ""
+
+#: templates/search-form/double-input.php:18
+#: templates/search-form/double-input.php:20
+msgid "Min"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:994
+msgid "Minimum  stay"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:597
+msgid "Minimum Price Range"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:519
+msgid "Minimum Price Range:"
+msgstr ""
+
+#: templates/account/coupon-submit.php:134
+msgid "Minimum spend"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:430
+msgid "Minimum stay (in days)"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:190
+msgid "Minute"
+msgstr ""
+
+#: includes/class-listeo-core-calendar.php:111
+msgid "MON"
+msgstr "Pon"
+
+#: includes/class-listeo-core-bookings-calendar.php:794
+#: includes/class-listeo-core-widgets.php:697
+#: listeo-core-template-functions.php:1346
+#: listeo-core-template-functions.php:1892 templates/form-fields/slots.php:5
+msgid "Monday"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:654
+#: includes/class-listeo-core-submit.php:662
+#: includes/class-listeo-core-submit.php:678
+#: includes/class-listeo-core-submit.php:1157
+#: includes/class-listeo-core-submit.php:1165
+#: includes/class-listeo-core-submit.php:1181
+msgid "Monday Opening Hour"
+msgstr ""
+
+#: listeo-core-template-functions.php:391
+msgid "Monthly"
+msgstr ""
+
+#: includes/class-listeo-core-search.php:1088
+#: includes/class-listeo-core-widgets.php:620
+#: includes/class-listeo-core-widgets.php:622
+#: templates/archive/top-buttons.php:34
+msgid "More Filters"
+msgstr "Więcej filtrów"
+
+#: includes/class-listeo-core-admin.php:258
+msgid "Moroccan Dirham"
+msgstr ""
+
+#: templates/archive/top-buttons.php:113 templates/search-form/sortby.php:7
+msgid "Most Reviewed"
+msgstr "Najwięcej recenzji"
+
+#: includes/class-listeo-core-admin.php:333
+msgid "Most Reviewed Rated"
+msgstr "Najczęściej oceniane"
+
+#: templates/archive/top-buttons.php:118 templates/search-form/sortby.php:12
+msgid "Most Views"
+msgstr "Najwięcej wyświetleń"
+
+#: lib/cmb2/example-functions.php:404
+msgid "Multiple Files"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:806
+#: includes/class-listeo-core.php:448 templates/form-fields/pricing.php:52
+#: templates/form-fields/pricing.php:91
+msgid "Multiply by days"
+msgstr "Pomnożona przez liczbę dni"
+
+#: includes/class-listeo-core.php:449
+msgid "Multiply by guest & days"
+msgstr "Pomnożona przez liczbę gości i dni"
+
+#: includes/class-listeo-core-meta-boxes.php:805
+#: includes/class-listeo-core.php:447 templates/form-fields/pricing.php:51
+#: templates/form-fields/pricing.php:90
+msgid "Multiply by guests"
+msgstr "Pomnożona przez liczbę gości"
+
+#: includes/class-listeo-core-meta-boxes.php:807
+#: templates/form-fields/pricing.php:53 templates/form-fields/pricing.php:92
+msgid "Multiply by guests & days "
+msgstr "Pomnożona przez liczbę gości i dni"
+
+#: templates/account/logged_section.php:17
+msgid "My Account"
+msgstr "Moje konto"
+
+#: templates/account/logged_section.php:21
+msgid "My Bookings"
+msgstr "Moje rezerwacje"
+
+#: includes/class-listeo-core-admin.php:985
+msgid "My Bookings Page"
+msgstr ""
+
+#: templates/account/logged_section.php:31
+msgid "My Listings"
+msgstr "Moje ogłoszenia"
+
+#: includes/class-listeo-core-admin.php:999
+msgid "My Listings Page"
+msgstr "Moje ogłoszenia"
+
+#: templates/account/navigation.php:53
+msgid "My Packages"
+msgstr ""
+
+#: templates/account/logged_section.php:64 templates/account/navigation.php:17
+msgid "My Profile"
+msgstr "Mój profil"
+
+#: includes/class-listeo-core-admin.php:1034
+msgid "My Profile Page"
+msgstr ""
+
+#: templates/account/navigation.php:35
+msgid "My Properties"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-add-package.php:164
+msgid "N/A"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-packages.php:43
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-packages.php:50
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-packages.php:53
+msgid "n/a"
+msgstr ""
+
+#: includes/class-listeo-core-reviews.php:152
+#: templates/account/my_listings.php:132
+msgid "Name"
+msgstr "Imię"
+
+#: includes/class-listeo-core-ical.php:282
+msgid "Name: "
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:267
+#: includes/class-listeo-core-settings.php:144
+msgid "Nepali Rupee"
+msgstr ""
+
+#: listeo-core-template-functions.php:819
+msgid "Never/not set"
+msgstr "nie ustawione"
+
+#: includes/class-listeo-core-post-types.php:273
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:362
+#: includes/class-listeo-core-post-types.php:404
+#: includes/class-listeo-core-post-types.php:445
+#: includes/class-listeo-core-post-types.php:486
+#: includes/class-listeo-core-post-types.php:528
+#: includes/class-listeo-core-post-types.php:570
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1349
+msgid "New booking request notification to owner "
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1557
+msgid "New conversation notification email content"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1550
+msgid "New conversation notification email subject"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1381
+msgid "New Instant booking notification to owner "
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1198
+msgid "New listing notification email"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1215
+msgid "New listing notification email content"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1209
+msgid "New listing notification email subject"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1588
+msgid "New message notification email content"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1581
+msgid "New message notification email subject"
+msgstr ""
+
+#: templates/account/change_password.php:43 templates/my-account.php:220
+msgid "New Password"
+msgstr "Nowe hasło"
+
+#: templates/account/reset_password.php:25
+msgid "New password"
+msgstr "Nowe hasło"
+
+#: includes/class-listeo-core-payouts.php:193
+msgid "New Payment for"
+msgstr ""
+
+#: includes/class-listeo-core-users.php:2429
+#, php-format
+msgid "New user registration on your site %s:"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:279
+#: includes/class-listeo-core-settings.php:154
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: templates/single-partials/single-listing-reviews.php:82
+msgid "Newer Comments"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:330
+#: templates/archive/top-buttons.php:114 templates/search-form/sortby.php:8
+msgid "Newest Listings"
+msgstr "Najnowsze ogłoszenia"
+
+#: lib/cmb2/includes/CMB2_JS.php:180
+msgid "Next"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:277
+#: includes/class-listeo-core-settings.php:152
+msgid "Nigerian Naira"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:277
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:278
+#, php-format
+msgid "No %s found in trash"
+msgstr ""
+
+#: includes/class-listeo-core-bookings-admin.php:116
+msgid "No bookings avaliable."
+msgstr "Brak dostępnych rezerwacji."
+
+#: templates/account/bookmarks.php:76
+msgid "No bookmarks!"
+msgstr "0 ulubionych."
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller.php:300
+msgid ""
+"No box found by that id. A box needs to be registered with the "
+"\"show_in_rest\" parameter configured."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr ""
+
+#: templates/account/coupons.php:114
+msgid "No coupons!"
+msgstr ""
+
+#: includes/class-listeo-core-ical.php:142
+msgid "No events imported"
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+msgid "No field found by that id."
+msgstr ""
+
+#: templates/compare-listings.php:12
+msgid "No listings to compare"
+msgstr ""
+
+#. translators: 1: results for. 2: link to codex.wordpress.org/Embeds
+#: lib/cmb2/includes/CMB2_Ajax.php:189
+#: lib/cmb2/includes/helper-functions.php:105
+#, php-format
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr ""
+
+#: templates/listing-submit-package.php:162
+msgid "No packages found"
+msgstr ""
+
+#: includes/class-listeo-core-payouts.php:749
+msgid "No payouts set."
+msgstr "Nie ma jeszcze płatności."
+
+#: includes/class-listeo-core-reviews.php:422
+msgid "No Rating Submitted"
+msgstr ""
+
+#: templates/account/coupon-submit.php:203
+msgid "No restrictions"
+msgstr ""
+
+#: includes/class-listeo-core.php:428
+msgid "No results match"
+msgstr ""
+
+#: templates/content-listing-grid.php:115
+msgid "No reviews yet"
+msgstr "Brak opinii"
+
+#: listeo-core-template-functions.php:1935 templates/form-fields/slots.php:47
+msgid "No slots added"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:875
+msgid "No slots for this day"
+msgstr ""
+
+#: lib/cmb2/includes/types/CMB2_Type_Taxonomy_Base.php:99
+msgid "No terms"
+msgstr ""
+
+#: includes/class-listeo-core-commissions.php:563
+msgid "No users found."
+msgstr ""
+
+#: includes/class-listeo-core-ical.php:81
+msgid ""
+"No valid iCal file recognized. Please import 'ical', 'ics', 'ifb' or "
+"'icalendar' file"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Field.php:1243 lib/cmb2/includes/CMB2_Field.php:1247
+msgid "None"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:435
+msgid "None - this will dequeue all map related scripts"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:278
+#: includes/class-listeo-core-settings.php:153
+msgid "Norwegian Krone"
+msgstr ""
+
+#: includes/class-listeo-core.php:413
+msgid "Not rated yet"
+msgstr "Brak recenzji"
+
+#: templates/single-listing.php:55 templates/single-listing.php:268
+msgid "Not verified. Claim this listing!"
+msgstr ""
+
+#: templates/account/login-form.php:136 templates/account/login.php:178
+msgid ""
+"Note: Your password will be generated automatically and sent to your email "
+"address."
+msgstr ""
+"Uwaga: Twoje hasło zostanie wygenerowane automatycznie i wysłane na Twój "
+"adres e-mail."
+
+#: templates/archive/no-found.php:4
+msgid "Nothing found"
+msgstr "Nic nie znaleziono"
+
+#: lib/cmb2/includes/CMB2_Options_Hookup.php:126
+msgid "Nothing to update."
+msgstr ""
+
+#: templates/listing-preview.php:1
+msgid "Notice!"
+msgstr "Uwaga!"
+
+#: includes/class-listeo-core-admin.php:594
+msgid "Notify admin by email about new listing waiting for approval"
+msgstr ""
+"Powiadom administratora e-mailem o nowej ofercie oczekującej na zatwierdzenie"
+
+#: includes/class-listeo-core.php:441
+msgid "November"
+msgstr "Listopad"
+
+#: lib/cmb2/includes/CMB2_JS.php:192
+msgid "Now"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:1291
+#: templates/content-listing-compact-shortcode.php:58
+#: templates/content-listing-compact.php:53
+#: templates/content-listing-grid.php:62 templates/content-listing.php:45
+msgid "Now Closed"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:1289
+#: templates/content-listing-compact-shortcode.php:55
+#: templates/content-listing-compact.php:50
+#: templates/content-listing-grid.php:59 templates/content-listing.php:42
+msgid "Now Open"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:629
+msgid "Number of images that can be uploaded to one listing"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:240
+msgid "Number of listings to show"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:1750
+msgid "Number of posts to show:"
+msgstr ""
+
+#: includes/class-listeo-core.php:440
+msgid "October"
+msgstr "Październik"
+
+#: lib/cmb2/example-functions.php:412
+msgid "oEmbed"
+msgstr ""
+
+#: templates/single-partials/single-listing-reviews.php:81
+msgid "Older Comments"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:329
+#: templates/archive/top-buttons.php:115 templates/search-form/sortby.php:9
+msgid "Oldest Listings"
+msgstr "Najstarsze ogłoszenia"
+
+#: includes/class-listeo-core-activities-log.php:275
+#: includes/class-listeo-core-reviews.php:709 templates/account/reviews.php:120
+#: templates/account/reviews.php:265
+msgid "on"
+msgstr "na"
+
+#: includes/class-listeo-core.php:862
+msgid "Once every 30 minutes"
+msgstr ""
+
+#: includes/class-listeo-core.php:857
+msgid "Once every 5 minutes"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:804
+#: includes/class-listeo-core.php:446 templates/form-fields/pricing.php:50
+#: templates/form-fields/pricing.php:89
+msgid "One time fee"
+msgstr "Opłata jednorazowa"
+
+#: includes/class-listeo-core-submit.php:929
+msgid "One time fee for booking"
+msgstr ""
+
+#: templates/single-partials/single-listing-reviews.php:161
+msgid "Only guests who have booked can leave a review."
+msgstr "Tylko goście, którzy zarezerwowali mogą zostawić recenzję."
+
+#: includes/class-listeo-core-bookmarks.php:52
+#: includes/class-listeo-core-bookmarks.php:96
+msgid "Oops, something went wrong, please try again"
+msgstr "Ups, coś poszło nie tak, spróbuj ponownie"
+
+#: templates/booking-success.php:17
+msgid "Oops, we have some problem."
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:249
+#: includes/class-listeo-core-submit.php:631
+#: includes/class-listeo-core-submit.php:645
+#: includes/class-listeo-core-widgets.php:1234
+msgid "Opening Hours"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:225
+msgid "Opening Hours (set here in 24:00 format)"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:240
+msgid "Opening Hours Status"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:637
+msgid "Opening Hours status"
+msgstr ""
+
+#: includes/class-listeo-core.php:443 templates/form-fields/hours.php:41
+#: templates/form-fields/hours.php:57
+msgid "Opening Time"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:427
+#: includes/class-listeo-core-admin.php:446
+msgid "OpenStreetMap"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:308 lib/cmb2/example-functions.php:321
+#: lib/cmb2/example-functions.php:333
+msgid "Option One"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:310 lib/cmb2/example-functions.php:323
+#: lib/cmb2/example-functions.php:335
+msgid "Option Three"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:309 lib/cmb2/example-functions.php:322
+#: lib/cmb2/example-functions.php:334
+msgid "Option Two"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-add-package.php:126
+msgid "Optionally link this package to a product."
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-add-package.php:161
+msgid "Optionally link this package to an order."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:795
+msgid "OR"
+msgstr ""
+
+#: templates/listing-submit-package.php:74
+msgid "Or Purchase New Package"
+msgstr ""
+
+#: templates/account/wallet.php:78
+msgid "Order"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-add-package.php:160
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-packages.php:91
+msgid "Order ID"
+msgstr ""
+
+#: includes/class-listeo-core-bookings-admin.php:343
+msgid "Order id"
+msgstr ""
+
+#: includes/class-listeo-core-bookings-calendar.php:1183
+msgid "Order is cancelled."
+msgstr "Zamówienie zostało anulowane."
+
+#: includes/class-listeo-core-commissions.php:443
+msgid "Orders counter"
+msgstr ""
+
+#: includes/class-listeo-core-payouts.php:628
+msgid "Orders number"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:365
+msgid "Other Features"
+msgstr ""
+
+#: templates/single-partials/single-listing-reviews.php:30
+msgid "out of 5.0"
+msgstr ""
+
+#: listeo-core-template-functions.php:80
+msgid "Overall experience received for the amount spent"
+msgstr "Ogólne doświadczenie"
+
+#: templates/listing-preview.php:60 templates/single-listing.php:176
+msgid "Overview"
+msgstr "Opis pojazdu"
+
+#: includes/class-listeo-core-admin.php:890
+#: includes/class-listeo-core-bookings-admin.php:220
+#: includes/class-listeo-core-users.php:177 includes/class-listeo-core.php:876
+#: listeo-core-template-functions.php:1306 templates/account/login-form.php:81
+#: templates/my-account.php:57
+msgid "Owner"
+msgstr "Właściciel pojazdu"
+
+#: includes/class-listeo-core-users.php:2424
+msgid "owner"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:349
+msgid "Owner contact information visibility"
+msgstr "Informacje właściciela - widoczne"
+
+#: includes/class-listeo-core-bookings-admin.php:323
+msgid "Owner id"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:935
+msgid "Owner redirect after login to page"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:928
+msgid "Owner redirect after registration to page"
+msgstr ""
+
+#: includes/class-listeo-core-bookings-calendar.php:1261
+#: includes/class-listeo-core-bookings-calendar.php:1499
+msgid "owner reservations"
+msgstr ""
+
+#: templates/account/my_packages.php:6
+msgid "Package name"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin.php:73
+msgid "Package successfully deleted"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-add-package.php:228
+msgid "Package successfully saved"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-add-package.php:60
+msgid "Package Type"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:986
+msgid "Page for guest to see their bookings,content: [listeo_my_bookings]"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:979
+msgid "Page for owners to manage their bookings, content: [listeo_bookings]"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:958
+msgid "Pages"
+msgstr ""
+
+#: templates/booking/content-booking.php:49
+#: templates/booking/content-user-booking.php:36
+#: templates/dashboard-bookings.php:32
+msgid "Paid"
+msgstr "Zapłacone"
+
+#: includes/class-listeo-core-admin.php:600
+msgid "Paid listings"
+msgstr "Płatne ogłoszenia"
+
+#: includes/class-listeo-core-admin.php:280
+#: includes/class-listeo-core-settings.php:155
+msgid "Paraguayan Guaraní"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:279
+#: includes/class-listeo-core-post-types.php:357
+#: includes/class-listeo-core-post-types.php:399
+#: includes/class-listeo-core-post-types.php:440
+#: includes/class-listeo-core-post-types.php:481
+#: includes/class-listeo-core-post-types.php:523
+#: includes/class-listeo-core-post-types.php:565
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:358
+#: includes/class-listeo-core-post-types.php:400
+#: includes/class-listeo-core-post-types.php:441
+#: includes/class-listeo-core-post-types.php:482
+#: includes/class-listeo-core-post-types.php:524
+#: includes/class-listeo-core-post-types.php:566
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: templates/account/login-form.php:33 templates/account/login-form.php:99
+#: templates/account/login.php:128
+msgid "Password"
+msgstr "Hasło"
+
+#: includes/class-listeo-core-users.php:1514
+msgid "Password has been changed."
+msgstr ""
+
+#: templates/account/change_password.php:26 templates/my-account.php:202
+msgid "Password may not contain the character \"\\\" (backslash)."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:473
+msgid "Paste style link generated in Studio MapBox"
+msgstr ""
+
+#: templates/booking/content-user-booking.php:279
+msgid "Pay"
+msgstr ""
+
+#: templates/booking-success.php:30
+msgid "Pay now"
+msgstr ""
+
+#: includes/class-listeo-core-payouts.php:116
+msgid "Payment amount"
+msgstr ""
+
+#: includes/class-listeo-core-payouts.php:115
+msgid "Payment date"
+msgstr ""
+
+#: includes/class-listeo-core-payouts.php:118
+msgid "Payment details"
+msgstr "Płatności"
+
+#: includes/class-listeo-core-payouts.php:114
+#: includes/class-listeo-core-payouts.php:330
+msgid "Payment for"
+msgstr ""
+
+#: includes/class-listeo-core-payouts.php:117
+#: includes/class-listeo-core-payouts.php:629
+msgid "Payment method"
+msgstr ""
+
+#: includes/class-listeo-core-payouts.php:609
+msgid "Payout"
+msgstr "Wypłata"
+
+#: templates/account/wallet.php:161
+msgid "Payout History"
+msgstr "Historia wypłat"
+
+#: templates/account/wallet.php:100
+msgid "Payout Method"
+msgstr "Metoda wypłaty"
+
+#: includes/class-listeo-core-payouts.php:103
+msgid "Payout was created."
+msgstr "Wypłata została zainicjowana."
+
+#: includes/class-listeo-core-payouts.php:610
+msgid "Payouts"
+msgstr "Wypłaty"
+
+#: templates/account/wallet.php:110 templates/account/wallet.php:170
+msgid "PayPal"
+msgstr ""
+
+#: templates/account/wallet.php:117
+msgid "PayPal Email"
+msgstr ""
+
+#: templates/booking/content-booking.php:26
+msgid "Pending"
+msgstr "Oczekujące"
+
+#: listeo-core-template-functions.php:774
+msgid "Pending Approval"
+msgstr "Oczekuje na zatwierdzenie"
+
+#: templates/account/my_listings.php:45
+msgid "Pending Listings"
+msgstr ""
+
+#: listeo-core-template-functions.php:767
+msgid "Pending Payment"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:330
+#, php-format
+msgid "Pending Payment <span class=\"count\">(%s)</span>"
+msgid_plural "Pending Payment <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: templates/account/coupon-submit.php:97
+msgid "Percentage discount"
+msgstr ""
+
+#: templates/booking.php:35
+msgid "Personal Details"
+msgstr "Dane osobowe"
+
+#: includes/class-listeo-core-admin.php:281
+#: includes/class-listeo-core-settings.php:156
+msgid "Philippine Pesos"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:1090
+#: includes/class-listeo-core-meta-boxes.php:1091
+#: includes/class-listeo-core-meta-boxes.php:1157
+#: includes/class-listeo-core-meta-boxes.php:1158
+#: includes/class-listeo-core-submit.php:486
+#: includes/class-listeo-core-users.php:778 templates/booking.php:64
+msgid "Phone"
+msgstr "Telefon"
+
+#: includes/class-listeo-core-meta-boxes.php:580
+#: includes/class-listeo-core-widgets.php:1435
+msgid "Phone number"
+msgstr "Numer telefonu"
+
+#: includes/class-listeo-core-ical.php:288
+msgid "Phone: "
+msgstr "Telefon:"
+
+#: templates/dashboard-bookings.php:58
+msgid "Pick a Date"
+msgstr "Wybierz datę"
+
+#: listeo-core-template-functions.php:1292
+msgid "Pingback:"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:1556
+#: templates/single-partials/single-listing-socials.php:67
+#, php-format
+msgid "Please %s sign %s in to see contact details."
+msgstr "Proszę %s sign %s in to see contact details."
+
+#: includes/class-listeo-core-users.php:482
+msgid "Please accept Privacy Policy"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:692
+msgid "Please also set your Claim Listing Page in Pages tab in Listeo Core"
+msgstr ""
+
+#: templates/single-partials/single-listing-reviews.php:179
+msgid "Please check reCAPTCHA checbox to post your review"
+msgstr "Zaznacz pole wyboru reCAPTCHA, aby opublikować swoją recenzję"
+
+#: templates/account/login.php:50
+msgid "Please check reCAPTCHA checbox to register."
+msgstr ""
+
+#: templates/form-fields/term-checkboxes.php:24
+msgid "Please choose category to display available features"
+msgstr "Wybierz rodzaj pojazdu, aby wyświetlić dostępne wyposażenie"
+
+#: includes/class-listeo-core-search.php:840
+#: includes/class-listeo-core-search.php:845
+#: includes/class-listeo-core-search.php:952
+#: includes/class-listeo-core-search.php:957
+#: templates/archive/top-buttons.php:41
+#: templates/search-form/multi-checkbox-row.php:3
+#: templates/search-form/multi-checkbox.php:4
+msgid "Please choose category to display filters"
+msgstr "Proszę wybrać typ pojazdu"
+
+#: includes/class-listeo-core.php:736
+msgid "Please configure Google Maps API key to use all Listeo features."
+msgstr ""
+
+#: includes/class-listeo-core-users.php:412
+msgid "Please fill email address"
+msgstr "Proszę wpisać adres e-mail"
+
+#: includes/class-listeo-core-ical.php:56
+msgid "Please fill the form fields"
+msgstr "Proszę wypełnić pola formularza"
+
+#: includes/class-listeo-core-users.php:469
+msgid "Please provide password"
+msgstr "Proszę podać prawidłowe hasło"
+
+#: includes/class-listeo-core-ical.php:69
+msgid "Please provide valid URL"
+msgstr "Proszę podać prawidłowy adres URL"
+
+#: includes/class-listeo-core-users.php:444
+msgid "Please provide your username"
+msgstr "Proszę podać prawidłowy login"
+
+#: includes/class-listeo-core-widgets.php:529
+msgid "Please select a form"
+msgstr ""
+
+#: includes/class-listeo-core-users.php:1722
+msgid "Please set a Lost Password Page in Listeo_Core Options -> Pages"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Ajax.php:75
+msgid "Please Try Again"
+msgstr ""
+
+#: includes/class-listeo-core.php:373
+msgid ""
+"Please use the fallback form below to upload your files like in the olden "
+"days."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1670
+#: includes/class-listeo-core-settings.php:308
+msgid "Plugin Settings"
+msgstr ""
+
+#: listeo-core-template-functions.php:1971
+#: listeo-core-template-functions.php:1981 templates/form-fields/slots.php:84
+#: templates/form-fields/slots.php:95
+msgid "pm"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:282
+#: includes/class-listeo-core-settings.php:157
+msgid "Polish Zloty"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:315
+msgctxt "post status"
+msgid "Expired"
+msgstr "Wygasł"
+
+#: includes/class-listeo-core-post-types.php:325
+msgctxt "post status"
+msgid "Pending Payment"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:306
+msgctxt "post status"
+msgid "Preview"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:159
+msgctxt "Post type archive slug - resave permalinks after changing this"
+msgid "listings"
+msgstr ""
+
+#: templates/booking.php:80
+msgid "Postcode/ZIP"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:603
+msgid "Posted"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:283
+#: includes/class-listeo-core-settings.php:158
+msgid "Pounds Sterling"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:181
+msgid "Prev"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:135
+#: includes/class-listeo-core-submit.php:1510
+#: listeo-core-template-functions.php:1196
+msgid "Preview"
+msgstr "Podgląd"
+
+#: includes/class-listeo-core-post-types.php:311
+#, php-format
+msgid "Preview <span class=\"count\">(%s)</span>"
+msgid_plural "Preview <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-listeo-core-bookings-admin.php:226
+#: includes/class-listeo-core-bookings-admin.php:363
+#: includes/class-listeo-core-meta-boxes.php:776
+msgid "Price"
+msgstr ""
+
+#: includes/class-listeo-core.php:386 templates/form-fields/pricing.php:42
+#: templates/form-fields/pricing.php:86
+msgid "Price (optional)"
+msgstr "Cena (opcjonalnie)"
+
+#: includes/class-listeo-core-search.php:1013
+#: includes/class-listeo-core-search.php:1106
+#: includes/class-listeo-core-search.php:1197
+#: includes/class-listeo-core-search.php:1231
+msgid "Price Filter"
+msgstr ""
+
+#: includes/class-listeo-core-calendar.php:169
+#: includes/class-listeo-core-calendar.php:207
+msgid "Price for day"
+msgstr ""
+
+#: templates/booking/content-booking.php:182
+#: templates/booking/content-user-booking.php:194
+msgid "Price:"
+msgstr "Cena:"
+
+#: includes/class-listeo-core-meta-boxes.php:516
+msgid "Prices fields"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:822 templates/listing-preview.php:65
+#: templates/single-listing.php:184
+#: templates/single-partials/single-listing-pricing.php:29
+msgid "Pricing"
+msgstr "Cennik"
+
+#: includes/class-listeo-core-submit.php:810
+msgid "Pricing & Bookable Services"
+msgstr "Cena"
+
+#: includes/class-listeo-core-meta-boxes.php:182
+msgid "Pricing Status"
+msgstr ""
+
+#: templates/account/login-form.php:159
+msgid "Privacy Policy"
+msgstr "Polityką prywatności"
+
+#: templates/account/wallet.php:73
+msgid "Processed"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-add-package.php:125
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-packages.php:87
+msgid "Product"
+msgstr ""
+
+#: templates/my-account.php:25
+msgid "Profile Details"
+msgstr "Szczegóły profilu"
+
+#: listeo-core-template-functions.php:764
+msgid "Published"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1185
+msgid "Published notification Email Content"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1178
+msgid "Published notification Email Subject"
+msgstr ""
+
+#: templates/account/my_packages.php:43
+msgid "Purchase New Package"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Purethemes.net"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:415
+msgid "Put number between 0-20"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:408
+msgid "Put number between 0-20, works only with autofit disabled"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:381
+msgid ""
+"Put symbol of country you want to restrict your results to (eg. uk for "
+"United Kingdon). Leave empty to search whole world."
+msgstr ""
+
+#: listeo-core-template-functions.php:76
+msgid "Quality of customer service and attitude to work with you"
+msgstr "Twoja ogólna ocena tego pojazdu"
+
+#: includes/class-listeo-core.php:450 templates/form-fields/pricing.php:58
+#: templates/form-fields/pricing.php:96
+msgid "Quantity Buttons"
+msgstr "Przyciski ilości"
+
+#: includes/class-listeo-core-search.php:992
+#: templates/archive/top-buttons.php:95
+msgid "Radius around selected destination"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:516
+msgid "Radius search settings"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:541
+msgid "Radius search unit"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:530
+msgid "Radius slider default state"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:337
+#: templates/archive/top-buttons.php:119 templates/search-form/sortby.php:13
+msgid "Random"
+msgstr "Losowy"
+
+#: includes/class-listeo-core-reviews.php:333
+#: includes/class-listeo-core-reviews.php:410
+msgid "Rating"
+msgstr ""
+
+#: includes/class-wc-product-listing-booking.php:94
+#: includes/paid-listings/class-wc-product-listing-package.php:98
+msgid "Read More"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:163
+msgid "Read-only Disabled Field"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:867
+msgid "reCAPTCHA Secret Key"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:861
+msgid "reCAPTCHA Site Key"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:879
+msgid "reCAPTCHA v3 Secret Key"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:873
+msgid "reCAPTCHA v3 Site Key"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:850
+msgid "Recaptcha version"
+msgstr ""
+
+#: includes/class-listeo-core-users.php:602
+msgid "reCAPTCHA was not validated"
+msgstr "reCAPTCHA jest błędne"
+
+#: templates/account/dashboard.php:91
+msgid "Recent Activities"
+msgstr "Ostatnie aktywności"
+
+#: includes/class-listeo-core-widgets.php:1656
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:579
+msgid "Redirect to current page"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:580
+msgid "Redirect to listings archive page"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:545
+#: includes/class-listeo-core-post-types.php:601
+#: includes/class-listeo-core-submit.php:407
+msgid "Region"
+msgstr " - "
+
+#: includes/class-listeo-core-admin.php:342
+msgid "Region in listing permalinks"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:548
+msgctxt "Region slug - resave permalinks after changing this"
+msgid "region"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:546
+msgid "Regions"
+msgstr ""
+
+#: templates/account/login-form.php:4 templates/account/login-form.php:165
+#: templates/account/login.php:99 templates/account/login.php:196
+msgid "Register"
+msgstr "Zarejestruj się"
+
+#: templates/account/login.php:47 templates/account/login.php:150
+msgid "Registering new users is currently not allowed."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:804
+msgid "Registration"
+msgstr "Rejestracja"
+
+#: includes/class-listeo-core-users.php:390 templates/account/login-form.php:60
+msgid "Registration is disabled"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1136
+msgid "Registration/Welcome email for new users"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:391
+#: includes/class-listeo-core-submit.php:896
+msgid "Regular Price"
+msgstr ""
+
+#: templates/booking/content-booking.php:270
+msgid "Reject"
+msgstr "Odrzuć"
+
+#: templates/account/login-form.php:45 templates/account/login.php:135
+msgid "Remember Me"
+msgstr "Zapamiętaj mnie"
+
+#: includes/class-listeo-core-ical.php:243 includes/class-listeo-core.php:445
+#: lib/cmb2/includes/CMB2_JS.php:203 lib/cmb2/includes/CMB2_Types.php:412
+#: lib/cmb2/includes/types/CMB2_Type_File_Base.php:83
+#: templates/account/bookmarks.php:65 templates/form-fields/hours.php:36
+msgid "Remove"
+msgstr "Usuń"
+
+#: includes/class-listeo-core-admin.php:721
+msgid "Remove Coupons option from Booking widget and confirmation"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Ajax.php:181
+msgid "Remove Embed"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:491
+msgid "Remove Entry"
+msgstr ""
+
+#: includes/class-listeo-core.php:379 templates/form-fields/file.php:28
+#: templates/form-fields/file.php:31
+msgid "Remove file"
+msgstr "Usuń zdjęcie"
+
+#: lib/cmb2/includes/CMB2_Field.php:1212
+msgid "Remove Group"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:715
+msgid "Remove Guests options from all booking widgets"
+msgstr "Usuń opcje gości ze wszystkich widżetów rezerwacji"
+
+#: lib/cmb2/includes/CMB2_JS.php:202
+#: lib/cmb2/includes/types/CMB2_Type_File_Base.php:63
+msgid "Remove Image"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1876
+msgid "Remove image"
+msgstr "Usuń zdjęcie"
+
+#: includes/class-listeo-core-meta-boxes.php:198
+msgid "Remove Menu"
+msgstr ""
+
+#: lib/cmb2-tabs/example.php:67 lib/cmb2-tabs/example.php:173
+msgid "Remove review"
+msgstr "Usuń recenzje"
+
+#: lib/cmb2/includes/CMB2_Types.php:412
+msgid "Remove Row"
+msgstr ""
+
+#: templates/account/my_listings.php:181
+msgid "Renew"
+msgstr ""
+
+#: templates/listing-submit-type.php:44
+msgid "Rent"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:575
+#: includes/class-listeo-core-meta-boxes.php:107
+#: includes/class-listeo-core-post-types.php:626
+#: listeo-core-template-functions.php:373
+msgid "Rental"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:461
+msgid "Rental Category"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:464
+msgctxt "Rental Category slug - resave permalinks after changing this"
+msgid "rental-category"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:653
+msgid "Rental fields"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:462
+msgid "Rentals Categories"
+msgstr "Dodatkowe"
+
+#: listeo-core-template-functions.php:416
+msgid "Rented"
+msgstr ""
+
+#: templates/account/reset_password.php:29
+msgid "Repeat new password"
+msgstr "Powtórzenie hasła"
+
+#: lib/cmb2/example-functions.php:479
+msgid "Repeating Field Group"
+msgstr ""
+
+#: includes/class-listeo-core.php:451
+msgid "Replied"
+msgstr ""
+
+#: templates/account/reviews.php:51 templates/account/reviews.php:67
+#: templates/account/reviews.php:221
+msgid "Reply"
+msgstr ""
+
+#: templates/account/reviews.php:44
+msgid "Reply to review"
+msgstr "Odpowiedz na recenzję"
+
+#: includes/class-listeo-core-reviews.php:746 templates/account/reviews.php:157
+msgid "Reply to this review"
+msgstr "Odpowiedz na tą recenzję"
+
+#: includes/class-listeo-core-users.php:307
+#: includes/class-listeo-core-widgets.php:1133
+msgid "Request Booking"
+msgstr "Poproś o rezerwację"
+
+#: templates/booking/content-booking.php:245
+msgid "Request sent:"
+msgstr "Zapytanie wysłane:"
+
+#: includes/class-listeo-core-admin.php:589
+msgid "Require admin approval for any new listings added"
+msgstr "Wymagaj zgody administratora na wszelkie nowe dodane ogłoszenia"
+
+#: includes/class-listeo-core-meta-boxes.php:406
+#: includes/class-listeo-core-submit.php:940
+msgid "Reservation expires after"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:401
+#: includes/class-listeo-core-submit.php:925
+msgid "Reservation Fee"
+msgstr ""
+
+#: includes/class-listeo-core-messages.php:329
+msgid "Reservation for "
+msgstr "Rezerwacja "
+
+#: templates/compare-side.php:79
+msgid "Reset"
+msgstr "Reset"
+
+#: templates/account/lost_password.php:34
+#: templates/account/reset_password.php:37
+msgid "Reset Password"
+msgstr "Resetuj hasło"
+
+#: includes/class-listeo-core-admin.php:1047
+msgid "Reset Password Page"
+msgstr "Nowe hasło"
+
+#: lib/cmb2/example-functions.php:768
+msgid "REST Editable Test Text"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:752
+msgid "REST Test Box"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:761
+msgid "REST Test Text"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:780
+msgid "Restrict location search only to address field"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:380
+msgid "Restrict search results to one country (works only with Google Maps)"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-add-package.php:65
+msgid "Resume Package"
+msgstr ""
+
+#: lib/cmb2-tabs/example.php:65 lib/cmb2-tabs/example.php:171
+msgid "Review {#}"
+msgstr "Recenzje {#}"
+
+#: templates/account/logged_section.php:36 templates/single-listing.php:204
+msgid "Reviews"
+msgstr "Recenzje"
+
+#: includes/class-listeo-core.php:412
+msgid "reviews"
+msgstr "recenzje"
+
+#: templates/single-partials/single-listing-reviews.php:98
+msgid "Reviews are closed."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1013
+msgid "Reviews Page"
+msgstr ""
+
+#: includes/class-listeo-core-users.php:2432
+#, php-format
+msgid "Role: %s"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:284
+#: includes/class-listeo-core-settings.php:159
+msgid "Romanian Leu"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:662
+msgid "Rooms"
+msgstr "Miejsca do spania"
+
+#: includes/class-listeo-core-admin.php:285
+#: includes/class-listeo-core-settings.php:160
+msgid "Russian Ruble"
+msgstr ""
+
+#: includes/class-listeo-core-calendar.php:116
+msgid "SAT"
+msgstr "Sob."
+
+#: includes/class-listeo-core-bookings-calendar.php:799
+#: includes/class-listeo-core-widgets.php:702
+#: listeo-core-template-functions.php:1351
+#: listeo-core-template-functions.php:1897 templates/form-fields/slots.php:10
+msgid "Saturday"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:739
+#: includes/class-listeo-core-submit.php:747
+#: includes/class-listeo-core-submit.php:1241
+#: includes/class-listeo-core-submit.php:1249
+msgid "saturday Opening Hour"
+msgstr ""
+
+#: includes/class-listeo-core-bookings-admin.php:370
+#: lib/cmb2/includes/helper-functions.php:303
+#: templates/account/my_listings.php:137 templates/account/wallet.php:150
+msgid "Save"
+msgstr "Zapisz"
+
+#: templates/account/change_password.php:49 templates/listing-preview.php:111
+#: templates/my-account.php:154 templates/my-account.php:226
+msgid "Save Changes"
+msgstr "Zapisz zmiany"
+
+#: includes/class-listeo-core-reviews.php:175
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr "Zapisz moje imię i nazwisko, adres e-mail w tej przeglądarce."
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-add-package.php:170
+msgid "Save Package"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1722
+#: includes/class-listeo-core-settings.php:360
+msgid "Save Settings"
+msgstr ""
+
+#: includes/class-listeo-core-settings.php:194
+msgid "Scale"
+msgstr ""
+
+#: lib/cmb2/includes/shim/WP_REST_Controller.php:308
+msgid ""
+"Scope under which the request is made; determines fields present in response."
+msgstr ""
+
+#: includes/class-listeo-core-search.php:1130
+#: includes/class-listeo-core-search.php:1506
+#: includes/class-listeo-core-search.php:1510
+#: templates/archive/keyword-search.php:11
+msgid "Search"
+msgstr "Szukaj"
+
+#: includes/class-listeo-core-post-types.php:276
+#: includes/class-listeo-core-post-types.php:355
+#: includes/class-listeo-core-post-types.php:397
+#: includes/class-listeo-core-post-types.php:438
+#: includes/class-listeo-core-post-types.php:479
+#: includes/class-listeo-core-post-types.php:521
+#: includes/class-listeo-core-post-types.php:563
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: templates/account/coupon-submit.php:166
+msgid "Search for a listing"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:191
+msgid "Second"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:206
+msgid "Select / Deselect All"
+msgstr ""
+
+#: includes/class-listeo-core.php:429
+msgid "Select an Option"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:145
+msgid "Select Color"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:1120
+msgid "Select coupon"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:797
+msgid "Select date when even will end"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:786
+msgid "Select date when even will start"
+msgstr ""
+
+#: templates/search-form/slider.php:78
+msgid "Select min and max price range"
+msgstr "Wybierz cene min. i maks."
+
+#: includes/class-listeo-core-submit.php:1141
+msgid "Select one of your coupons to display in sidebar in this listing view"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1041
+msgid "Select page that holds [listeo_lost_password] shortcode"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1048
+msgid "Select page that holds [listeo_reset_password] shortcode"
+msgstr ""
+
+#: includes/class-listeo-core.php:430
+msgid "Select Some Options "
+msgstr "Wybierz"
+
+#: includes/class-listeo-core-admin.php:607
+msgid ""
+"Selected packages can be bought only once, useful for demo/free packages"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:595
+msgid "Send email about any new listings added"
+msgstr "Wyślij e-mail o wszelkich dodanych nowych ofertach"
+
+#: includes/class-listeo-core-widgets.php:1579
+#: includes/class-listeo-core-widgets.php:1589
+#: includes/class-listeo-core-widgets.php:1598
+#: templates/account/single_message.php:125
+#: templates/booking/content-booking.php:259
+#: templates/booking/content-user-booking.php:267
+#: templates/dashboard-bookings.php:103 templates/dashboard-bookings.php:113
+#: templates/dashboard-bookings.php:120
+msgid "Send Message"
+msgstr "Wyślij wiadomość"
+
+#: includes/class-listeo-core-users.php:211
+msgid "Sending user info, please wait..."
+msgstr "Wysyłam informacje o użytkowniku, proszę czekać ..."
+
+#: includes/class-listeo-core-admin.php:820
+msgid "Separate page"
+msgstr ""
+
+#: includes/class-listeo-core.php:439
+msgid "September"
+msgstr "Wrzesień"
+
+#: includes/class-listeo-core.php:376
+msgid "Server responded with {{statusCode}} code."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:574
+#: includes/class-listeo-core-meta-boxes.php:106
+#: includes/class-listeo-core-post-types.php:623
+#: listeo-core-template-functions.php:75 listeo-core-template-functions.php:372
+#: templates/listing-submit-type.php:38
+msgid "Service"
+msgstr "Ogólna ocena"
+
+#: includes/class-listeo-core-post-types.php:421
+msgid "Service Categories"
+msgstr "Liczba miejsc do spania"
+
+#: includes/class-listeo-core-post-types.php:420
+#: includes/class-listeo-core-submit.php:325
+msgid "Service Category"
+msgstr "- "
+
+#: includes/class-listeo-core-post-types.php:423
+msgctxt "Service Category slug - resave permalinks after changing this"
+msgid "service-category"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:640
+msgid "Service fields"
+msgstr ""
+
+#: includes/class-listeo-core-users.php:225
+#: includes/class-listeo-core-users.php:400
+msgid "Session token has expired, please reload the page and try again"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:212
+msgid "Set 12/24 clock for timepickers"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:959
+msgid "Set all pages required in Listeo."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:230
+#, php-format
+msgid "Set commision % for bookings"
+msgstr "Ustaw% prowizji za rezerwacje"
+
+#: includes/class-listeo-core-admin.php:304
+msgid "Set currency symbol before or after"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:622
+msgid ""
+"Set default listing duration (if not set via listing package). Set to 0 if "
+"you don't want listings to have an expiration date."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:553
+msgid ""
+"Set default radius for search, leave empty to disable default radius search."
+msgstr ""
+"Ustaw domyślny promień wyszukiwania, pozostaw puste, aby wyłączyć domyślne "
+"wyszukiwanie promienia."
+
+#: includes/class-listeo-core-admin.php:885
+msgid "Set default role for Registration Form"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:1009
+msgid "Set maximum number of guests per reservation"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:996
+msgid "Set minimum number of days for reservation"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:602
+msgid "Set only minimum price to show \"Prices starts from \" instead of range"
+msgstr "Ustaw cenę minimalną, aby wyświetlać „Ceny zaczynają się od” "
+
+#: templates/account/wallet.php:161
+msgid "Set Payout Method"
+msgstr "Ustaw metodę płatności"
+
+#: includes/class-listeo-core-admin.php:316
+msgid ""
+"Set Precision of the number of decimal places (for example 4.56$ instead of "
+"5$)"
+msgstr ""
+
+#: includes/class-listeo-core-calendar.php:170
+#: includes/class-listeo-core-calendar.php:208
+msgid "Set price"
+msgstr "Cena"
+
+#: includes/class-listeo-core.php:385
+msgid "Set price for this date"
+msgstr "Cena za ten dzień"
+
+#: includes/class-listeo-core-submit.php:616
+msgid "Set the maximum price for your service, used on filters in search form"
+msgstr ""
+
+#: includes/class-listeo-core-settings.php:100
+msgid "Settings"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:754
+msgid "Settings for browse/archive listing view."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:375
+msgid "Settings for map usage."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:566
+#: includes/class-listeo-core-admin.php:660
+msgid "Settings for single listing view."
+msgstr "Ustawienia dla widoku pojedynczej listy."
+
+#: includes/class-listeo-core-admin.php:805
+msgid "Settings for users registration and login."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:710
+msgid "Settings related to booking."
+msgstr "Ustawienia związane z rezerwacją."
+
+#: lib/cmb2/includes/CMB2_Options_Hookup.php:130
+msgid "Settings updated."
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:423
+msgid "Share"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:340
+msgid "Share buttons"
+msgstr ""
+
+#: includes/class-listeo-core.php:420
+msgctxt "Short for Friday"
+msgid "Fr"
+msgstr "Pt"
+
+#: includes/class-listeo-core.php:416
+msgctxt "Short for Monday"
+msgid "Mo"
+msgstr "Pon"
+
+#: includes/class-listeo-core.php:421
+msgctxt "Short for Saturday"
+msgid "Sa"
+msgstr "Sob"
+
+#: includes/class-listeo-core.php:415
+msgctxt "Short for Sunday"
+msgid "Su"
+msgstr "Nied"
+
+#: includes/class-listeo-core.php:419
+msgctxt "Short for Thursday"
+msgid "Th"
+msgstr "Czw"
+
+#: includes/class-listeo-core.php:417
+msgctxt "Short for Tuesday"
+msgid "Tu"
+msgstr "Wt"
+
+#: includes/class-listeo-core.php:418
+msgctxt "Short for Wednesday"
+msgid "We"
+msgstr "Śr"
+
+#: includes/class-listeo-core-admin.php:690
+msgid "Show \"Claim it now\" button on listing"
+msgstr ""
+
+#: templates/single-partials/single-listing-pricing.php:84
+msgid "Show Less"
+msgstr "Pokaż mniej "
+
+#: templates/archive-listing-split.php:14 templates/archive-listing.php:35
+msgid "Show Map "
+msgstr "Pokaż mapę"
+
+#: templates/single-partials/single-listing-pricing.php:84
+msgid "Show More"
+msgstr "Pokaż więcej"
+
+#: includes/class-listeo-core-admin.php:354
+msgid "Show owner contact information only for logged in users"
+msgstr ""
+"Pokaż informacje kontaktowe właściciela tylko dla zalogowanych użytkowników"
+
+#: includes/class-listeo-core-widgets.php:1455
+msgid "Show Send message button"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:648
+msgid "Shows Booking Form."
+msgstr "Pokazuje formularz rezerwacji."
+
+#: includes/class-listeo-core-widgets.php:1772
+msgid "Shows Listing Coupon."
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:1423
+msgid "Shows Listing Owner box."
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:1228
+msgid "Shows Opening Hours."
+msgstr ""
+
+#: templates/account/logged_section.php:79
+#: templates/account/logged_section.php:82 templates/account/login.php:132
+msgid "Sign In"
+msgstr "Zaloguj się"
+
+#: templates/account/login-form.php:182 templates/account/login-form.php:190
+msgid "Sign In with Social Network"
+msgstr ""
+
+#: templates/single-partials/single-listing-related.php:28
+msgid "Similar Properties"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:986
+msgid ""
+"Similar to the single jobs you can add image to the category header. It "
+"should be 1920px wide"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:286
+#: includes/class-listeo-core-settings.php:161
+msgid "Singapore Dollar"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:659
+msgid "Single Listing"
+msgstr "Pojedyńcze ogłoszenie"
+
+#: includes/class-listeo-core-settings.php:113
+msgid "Single listing related options"
+msgstr ""
+
+#: includes/class-listeo-core.php:578
+msgid "Single listing sidebar"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:681
+msgid "Site Background Color"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:500
+msgid "Size"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:618
+#: includes/class-listeo-core-users.php:785
+msgid "Skype"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:381
+#: listeo-core-template-functions.php:1923
+#: listeo-core-template-functions.php:1951 templates/form-fields/slots.php:35
+#: templates/form-fields/slots.php:63
+msgid "Slots"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:375
+msgid "Slots Status"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:1096
+#: includes/class-listeo-core-meta-boxes.php:1099
+#: includes/class-listeo-core-meta-boxes.php:1163
+#: includes/class-listeo-core-meta-boxes.php:1166
+msgid "Social"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:1450
+msgid "Social Sites profiles"
+msgstr ""
+
+#: listeo-core-template-functions.php:413
+msgid "Sold"
+msgstr ""
+
+#: includes/class-listeo-core-activities-log.php:222
+msgid "Someone bookmarked your "
+msgstr "Ktoś dodał do ulubionych"
+
+#: includes/class-listeo-core-activities-log.php:228
+msgid "Someone unbookmarked your"
+msgstr "Ktoś usuną z ulubionych"
+
+#: includes/class-listeo-core-bookings-calendar.php:1609
+msgid "Sorry, it looks like you've already made that reservation"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Field.php:1358
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: templates/account/owner_only.php:4
+msgid ""
+"Sorry, you can't view this page as Guest, register Owner account to get "
+"access."
+msgstr ""
+"Przepraszamy, nie możesz wyświetlić tej strony jako Gość, zarejestruj konto "
+"Właściciela, aby uzyskać dostęp."
+
+#: includes/class-listeo-core-search.php:1116
+msgid "Sort By"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:325
+msgid "sort by"
+msgstr "Sortuj według"
+
+#: includes/class-listeo-core-admin.php:287
+#: includes/class-listeo-core-settings.php:162
+msgid "South African rand"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:273
+#: includes/class-listeo-core-settings.php:148
+msgid "South Korean Won"
+msgstr ""
+
+#: includes/class-listeo-core-settings.php:199
+msgid "Square feet"
+msgstr ""
+
+#: includes/class-listeo-core-settings.php:198
+msgid "Square meter"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:274
+#: includes/class-listeo-core-settings.php:149
+msgid "Sri Lankan Rupee"
+msgstr ""
+
+#: includes/class-listeo-core-bookings-admin.php:222
+msgid "Start date"
+msgstr ""
+
+#: includes/class-listeo-core-listing.php:592
+#: includes/class-listeo-core-listing.php:604
+msgid "Starts from "
+msgstr "Cena od: "
+
+#: includes/class-listeo-core-bookings-admin.php:348
+msgid "Status"
+msgstr ""
+
+#: templates/booking.php:73
+msgid "Street Address"
+msgstr ""
+
+#: templates/single-partials/single-listing-location.php:39
+msgid "Street View"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:176
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr "Niedz, Pon, Wt, Śr, Czw, Pt, Sob"
+
+#: includes/class-listeo-core-submit.php:2179
+#: listeo-core-template-functions.php:1194 templates/my-account.php:154
+#: templates/search-form/submit.php:4
+msgid "Submit"
+msgstr ""
+
+#: templates/account/coupon-submit.php:238
+msgid "Submit Coupon"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:129
+msgid "Submit Details"
+msgstr "Prześlij szczegóły"
+
+#: includes/class-listeo-core-admin.php:565
+#: includes/class-listeo-core-submit.php:1666
+#: includes/class-listeo-core-submit.php:1700 templates/listing-preview.php:109
+#: templates/listing-preview.php:111
+msgid "Submit Listing"
+msgstr "Prześlij ogłoszenie"
+
+#: includes/class-listeo-core-admin.php:648
+msgid "Submit Listing map center point"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1027
+msgid "Submit Listing Page"
+msgstr ""
+
+#: templates/account/my_listings.php:29 templates/account/my_listings.php:243
+#: templates/account/my_packages.php:40 templates/account/navigation.php:44
+msgid "Submit New Listing"
+msgstr "Dodaj nowe ogłoszenie"
+
+#: lib/cmb2-tabs/example.php:33 lib/cmb2-tabs/example.php:57
+#: lib/cmb2-tabs/example.php:139 lib/cmb2-tabs/example.php:163
+msgid "Subtitle"
+msgstr ""
+
+#: includes/class-listeo-core-calendar.php:110
+msgid "SUN"
+msgstr "Niedz."
+
+#: lib/cmb2/includes/CMB2_JS.php:177
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr "Niedz, Pon, Wt, Śr, Czw, Pt, Sob"
+
+#: includes/class-listeo-core-bookings-calendar.php:800
+#: includes/class-listeo-core-widgets.php:703
+#: listeo-core-template-functions.php:1352
+#: listeo-core-template-functions.php:1357
+#: listeo-core-template-functions.php:1898 templates/form-fields/slots.php:11
+msgid "Sunday"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:755
+#: includes/class-listeo-core-submit.php:763
+#: includes/class-listeo-core-submit.php:1257
+#: includes/class-listeo-core-submit.php:1265
+msgid "sunday Opening Hour"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:175
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr "Niedziela, Poniedziałek, Wtorek, Środa, Czwartek, Piątek, Sobota"
+
+#: includes/class-listeo-core-admin.php:570
+msgid "Supported listing types"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:288
+#: includes/class-listeo-core-settings.php:163
+msgid "Swedish Krona"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:289
+#: includes/class-listeo-core-settings.php:164
+msgid "Swiss Franc"
+msgstr ""
+
+#: lib/cmb2-tabs/example.php:25 lib/cmb2-tabs/example.php:131
+msgid "Tab 1"
+msgstr ""
+
+#: lib/cmb2-tabs/example.php:49 lib/cmb2-tabs/example.php:155
+msgid "Tab 2"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:290
+#: includes/class-listeo-core-settings.php:165
+msgid "Taiwan New Dollars"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:628
+msgid "Term Image"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_hookup.php:185
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_hookup.php:181
+msgid ""
+"Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: lib/cmb2/example-functions.php:366
+msgid "Test Checkbox"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:258
+msgid "Test Color Picker"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:216
+msgid "Test Date Picker"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:224
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:232
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:397
+msgid "Test Image"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:117
+msgid "Test Metabox"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:249
+msgid "Test Money"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:373
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:328
+msgid "Test Radio"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:315
+msgid "Test Radio inline"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:302
+msgid "Test Select"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:357
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:340
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:349
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:130 lib/cmb2/example-functions.php:459
+msgid "Test Text"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:274
+msgid "Test Text Area"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:288
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:281
+msgid "Test Text Area Small"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:193
+msgid "Test Text Email"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:156
+msgid "Test Text Medium"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:143
+msgid "Test Text Small"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:201
+msgid "Test Time"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:295
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:387
+msgid "Test wysiwyg"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:291
+#: includes/class-listeo-core-settings.php:166
+msgid "Thai Baht"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1210
+msgid "Thank you for adding a listing"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1298
+#: includes/class-listeo-core-admin.php:1329
+msgid "Thank you for your booking - {listing_name}"
+msgstr "Dziękujemy za rezerwację - {listing_name}"
+
+#: templates/booking-success.php:24
+msgid "Thank you for your booking!"
+msgstr "Dziękujemy za rezerwację!"
+
+#: templates/single-partials/single-listing-reviews.php:144
+msgid "Thank you for your review."
+msgstr "Dziękuję za recenzję."
+
+#: templates/listing-submitted.php:4
+msgid "Thanks for your submission!"
+msgstr "Dziękujemy za dodanie ogłoszenia!"
+
+#: lib/cmb2/includes/CMB2_Base.php:422
+#, php-format
+msgid ""
+"The \"%1$s\" field parameter has been deprecated in favor of the \"%1$s\" "
+"parameter."
+msgstr ""
+
+#: templates/account/login.php:41
+msgid "The email address you entered is not valid."
+msgstr ""
+
+#: templates/my-account.php:75
+msgid "The Email you entered is not valid or empty. Please try again."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller.php:385
+msgid "The id for the object."
+msgstr ""
+
+#: includes/class-listeo-core-bookings-calendar.php:537
+#, php-format
+msgid "The maximum spend for this coupon is %s."
+msgstr ""
+
+#: includes/class-listeo-core-bookings-calendar.php:530
+#, php-format
+msgid "The minimum spend for this coupon is %s."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1120
+msgid ""
+"The name from who the email is received, by default it is your site name."
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings.php:78
+msgid "The number of days that the listing will be active."
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings.php:64
+msgid "The number of listings a user can post with this package."
+msgstr ""
+
+#: includes/class-listeo-core-users.php:1853 templates/account/login.php:23
+#: templates/account/login.php:61
+#, php-format
+msgid ""
+"The password you entered wasn't quite right. <a href='%s'>Did you forget "
+"your password</a>?"
+msgstr ""
+
+#: templates/account/change_password.php:20 templates/my-account.php:196
+msgid "The passwords do not match. Please retry.."
+msgstr "Hasło nie pasuje. Prosimy wpisać inne ..."
+
+#: listeo-core-template-functions.php:88
+msgid "The physical condition of the business"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:835
+msgid "The tickets have sold out"
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller.php:392
+msgid "The title for the object."
+msgstr ""
+
+#: lib/cmb2/example-functions.php:654
+msgid "Theme Options"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1361
+msgid "There is a new booking request for {listing_name}"
+msgstr "Pojawiło się nowe zapytanie o rezerwację dla {list_name}"
+
+#: includes/class-listeo-core-admin.php:1393
+msgid "There is a new instant booking for {listing_name}"
+msgstr "Dostępna jest nowa natychmiastowa rezerwacja {list_name}"
+
+#: includes/class-listeo-core-emails.php:133
+msgid "There is listing waiting for your approval \"{listing_name}\""
+msgstr ""
+
+#: includes/class-listeo-core-emails.php:130
+msgid "There is new listing waiting for approval"
+msgstr ""
+
+#: includes/class-listeo-core-ical.php:222
+msgid "There was error with the import, please try again"
+msgstr ""
+
+#: includes/class-listeo-core-ical.php:160
+msgid "There was problem updating the field."
+msgstr ""
+
+#: includes/class-listeo-core-users.php:1160
+msgid "This avatar will be displayed instead of default one"
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller.php:257
+msgid "This box does not have read permissions."
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller.php:277
+msgid "This box does not have write permissions."
+msgstr ""
+
+#: includes/class-listeo-core-bookings-calendar.php:520
+msgid "This coupon does not exist"
+msgstr "Ten kupon nie istnieje"
+
+#: includes/class-listeo-core-bookings-calendar.php:558
+msgid "This coupon has expired."
+msgstr "Ten kupon nie jest aktualny."
+
+#: includes/class-listeo-core-bookings-calendar.php:590
+#: includes/class-listeo-core-bookings-calendar.php:617
+#: includes/class-listeo-core-bookings-calendar.php:622
+msgid "This coupon is not applicable for this listing"
+msgstr "Ten kupon nie jest akceptowalny przy tym ogłoszeniu"
+
+#: includes/class-listeo-core-widgets.php:1110 templates/booking.php:323
+msgid "This coupon was added"
+msgstr "Ten kupon został dodany"
+
+#: includes/class-listeo-core-users.php:1834
+msgid "This email is already registered"
+msgstr "Ten email jest już zarejestrowany"
+
+#: templates/my-account.php:78
+msgid "This email is already used by another user, please try a different one."
+msgstr ""
+"Ten adres e-mail jest już używany przez innego użytkownika. Spróbuj użyć "
+"innego."
+
+#: lib/cmb2/example-functions.php:296
+msgid "This is a title description"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:303
+msgid "This is main listings category"
+msgstr ""
+
+#: includes/class-listeo-core-users.php:422
+msgid "This is not valid email address"
+msgstr "To nie jest poprawny adres e-mail"
+
+#: templates/listing-preview.php:1
+msgid ""
+"This is preview of listing you've submitted, please confirm or edit your "
+"submission using buttons at the end of that page."
+msgstr ""
+" To jest podgląd przesłanego ogłoszenia. Potwierdź lub edytuj ogłoszenie za "
+"pomocą przycisków na końcu tej strony."
+
+#: includes/class-listeo-core-post-types.php:281
+#, php-format
+msgid "This is where you can create and manage %s."
+msgstr ""
+
+#: templates/account/single_message.php:20
+msgid "This message does not exists."
+msgstr ""
+
+#: includes/class-listeo-core.php:401
+msgid "This Month"
+msgstr "Bieżący miesiąc"
+
+#: includes/class-listeo-core-admin.php:792
+msgid ""
+"This option will limit let you choose search results that have one of the "
+"features or all of the features you look for."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:781
+msgid ""
+"This option will limit search only to address field if Radius search is not "
+"used, otherwise it searches for content and title as well"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:770
+msgid "This option will refresh list of features based on selected category"
+msgstr ""
+
+#: templates/listing-submit-package.php:128
+msgid "This plan includes "
+msgstr ""
+
+#: includes/class-listeo-core-users.php:1176
+msgid "This text will be displayed below your Name on Agents list"
+msgstr ""
+
+#: includes/class-listeo-core-users.php:1837
+msgid "This username already exists"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1128
+msgid ""
+"This will act as the \"from\" and \"reply-to\" address. This emails should "
+"match your domain address"
+msgstr ""
+
+#: includes/class-listeo-core-bookings-calendar.php:1857
+msgid "Those dates are not available."
+msgstr ""
+
+#: includes/class-listeo-core-calendar.php:114
+msgid "THU"
+msgstr "Czw."
+
+#: includes/class-listeo-core-submit.php:1281
+msgid "Thumbnail ID"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:431
+msgid ""
+"ThunderForest <a href=\"https://manage.thunderforest.com/\">(requires API "
+"key)</a>"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:493
+#: includes/class-listeo-core-admin.php:497
+msgid "ThunderForest API Key"
+msgstr ""
+
+#: includes/class-listeo-core-bookings-calendar.php:797
+#: includes/class-listeo-core-widgets.php:700
+#: listeo-core-template-functions.php:1349
+#: listeo-core-template-functions.php:1895 templates/form-fields/slots.php:8
+msgid "Thursday"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:704
+#: includes/class-listeo-core-submit.php:713
+#: includes/class-listeo-core-submit.php:1206
+#: includes/class-listeo-core-submit.php:1215
+msgid "Thursday Opening Hour"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:332
+msgid "Tick the checkbox to make it Featured"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:310
+msgid "Tick the checkbox to mark it as Verified"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:1080
+msgid "Ticket Price"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:1028
+#: includes/class-listeo-core-widgets.php:1032 templates/booking.php:245
+msgid "Tickets"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:903 lib/cmb2/includes/CMB2_JS.php:188
+#: templates/booking.php:197 templates/booking.php:222
+msgid "Time"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:872
+msgid "Time Slots"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:209 lib/cmb2/example-functions.php:210
+msgid "Time zone"
+msgstr ""
+
+#: templates/account/dashboard.php:78
+msgid "Times Bookmarked"
+msgstr "Liczba dodanych do ulubionych"
+
+#: includes/class-listeo-core-widgets.php:232
+#: includes/class-listeo-core-widgets.php:464
+#: includes/class-listeo-core-widgets.php:573
+#: includes/class-listeo-core-widgets.php:655
+#: includes/class-listeo-core-widgets.php:1235
+#: includes/class-listeo-core-widgets.php:1430
+#: includes/class-listeo-core-widgets.php:1779
+#: includes/class-listeo-core.php:388 lib/cmb2-tabs/example.php:28
+#: lib/cmb2-tabs/example.php:52 lib/cmb2-tabs/example.php:134
+#: lib/cmb2-tabs/example.php:158 templates/form-fields/pricing.php:36
+#: templates/form-fields/pricing.php:84
+msgid "Title"
+msgstr "Nazwa"
+
+#: includes/class-listeo-core-widgets.php:1747
+msgid "Title:"
+msgstr ""
+
+#: includes/class-listeo-core.php:393
+msgid "To"
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid ""
+"To view or modify the field's value, the 'object_id' and 'object_type' "
+"arguments are required."
+msgstr ""
+
+#: includes/class-listeo-core.php:397 lib/cmb2/includes/CMB2_JS.php:182
+msgid "Today"
+msgstr "Disiaj"
+
+#: lib/cmb2/includes/CMB2_hookup.php:458
+#, php-format
+msgid "Toggle panel: %s"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:1180 templates/booking.php:342
+msgid "Total Cost"
+msgstr "Całkowity koszt"
+
+#: templates/account/wallet.php:42
+msgid "Total Earnings"
+msgstr "Suma przychodów"
+
+#: templates/account/wallet.php:50
+msgid "Total Orders"
+msgstr "Zamówienia ogółem"
+
+#: templates/account/dashboard.php:65
+msgid "Total Reviews"
+msgstr "Recenzje ogółem"
+
+#: templates/account/dashboard.php:41
+msgid "Total Views"
+msgstr "Całkowita liczba odziwedzin"
+
+#: templates/booking.php:86
+msgid "Town"
+msgstr ""
+
+#: includes/class-listeo-core-calendar.php:112
+msgid "TUE"
+msgstr "Wt"
+
+#: includes/class-listeo-core-bookings-calendar.php:795
+#: includes/class-listeo-core-widgets.php:698
+#: listeo-core-template-functions.php:1347
+#: listeo-core-template-functions.php:1893 templates/form-fields/slots.php:6
+msgid "Tuesday"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:670
+#: includes/class-listeo-core-submit.php:1173
+msgid "Tuesday Opening Hour"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:292
+#: includes/class-listeo-core-settings.php:167
+msgid "Turkish Lira"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:604
+#: includes/class-listeo-core-widgets.php:424
+msgid "Twitter"
+msgstr ""
+
+#: includes/class-listeo-core-users.php:779
+msgid "Twitter "
+msgstr ""
+
+#: lib/cmb2/example-functions.php:572
+msgid "Twitter URL"
+msgstr ""
+
+#: includes/class-listeo-core-bookings-admin.php:224
+#: includes/class-listeo-core-post-types.php:600
+msgid "Type"
+msgstr ""
+
+#: templates/form-fields/text.php:34
+msgid "type and click here"
+msgstr "wpisz i kliknij tutaj"
+
+#: templates/form-fields/text.php:35 templates/search-form/location.php:17
+msgid "type and hit enter"
+msgstr "Miejscowość + Enter"
+
+#: includes/class-listeo-core-submit.php:290
+msgid ""
+"Type title that will also contains an unique feature of your listing (e.g. "
+"renovated, air contidioned)"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:293
+#: includes/class-listeo-core-settings.php:168
+msgid "Ukrainian Hryvnia"
+msgstr ""
+
+#: includes/class-listeo-core-widgets.php:1202
+msgid ""
+"Unfortunately this request can't be processed. Try different dates please."
+msgstr ""
+"Niestety, nie możesz wynająć pojazdu w tym terminie. Wypróbuj inny termin."
+
+#: includes/class-listeo-core-bookings-calendar.php:1733
+msgid "Unfortunately those dates are not available anymore."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:244
+#: includes/class-listeo-core-settings.php:123
+msgid "United Arab Emirates Dirham"
+msgstr ""
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-add-package.php:77
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-packages.php:59
+#: includes/paid-listings/class-listeo-core-paid-listings.php:66
+msgid "Unlimited"
+msgstr ""
+
+#: templates/listing-submit-package.php:138
+msgid "Unlimited availability of listings"
+msgstr ""
+
+#: templates/listing-submit-package.php:124
+msgid "Unlimited number of listings"
+msgstr ""
+
+#: templates/account/coupon-submit.php:225
+msgid "Unlimited usage"
+msgstr ""
+
+#: templates/booking/content-booking.php:36
+#: templates/booking/content-user-booking.php:25
+#: templates/dashboard-bookings.php:31
+msgid "Unpaid"
+msgstr "Niezapłacone"
+
+#: templates/account/messages.php:47 templates/account/single_message.php:82
+msgid "Unread"
+msgstr "Nieprzeczytana"
+
+#: includes/class-listeo-core-listing.php:594
+#: includes/class-listeo-core-listing.php:606
+msgid "Up to "
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:360
+#: includes/class-listeo-core-post-types.php:402
+#: includes/class-listeo-core-post-types.php:443
+#: includes/class-listeo-core-post-types.php:484
+#: includes/class-listeo-core-post-types.php:526
+#: includes/class-listeo-core-post-types.php:568
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: templates/account/coupon-submit.php:238
+msgid "Update Coupon"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1875
+msgid "Upload an image"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:398
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: templates/my-account.php:44
+msgid "Upload Avatar"
+msgstr "Prześlij zdjęcie profilowe"
+
+#: includes/class-listeo-core-meta-boxes.php:985
+#: includes/class-listeo-core-meta-boxes.php:1056
+#: includes/class-listeo-core-users.php:1159
+#: templates/form-fields/floorplans.php:28
+#: templates/form-fields/floorplans.php:62
+msgid "Upload Image"
+msgstr "Prześlij zdjęcie"
+
+#: includes/class-listeo-core-admin.php:1875
+msgid "Upload new image"
+msgstr "Prześlij nowe zdjęcie"
+
+#: lib/cmb2/example-functions.php:405
+msgid "Upload or add multiple images/attachments."
+msgstr "Prześlij lub dodaj wiele zdjęć / załączników."
+
+#: templates/account/coupon-submit.php:83
+msgid "Upload Widget Background"
+msgstr ""
+
+#: listeo-core-template-functions.php:2141
+#, php-format
+msgid "Uploaded files need to be one of the following file types: %s"
+msgstr ""
+
+#: templates/account/my_listings.php:135
+msgid "URL to .ical, .ics, .ifb or .icalendar file"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:686
+#: includes/class-listeo-core-submit.php:480
+msgid "URL to oEmbed supported service"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:243
+#: includes/class-listeo-core-admin.php:294
+#: includes/class-listeo-core-settings.php:122
+#: includes/class-listeo-core-settings.php:169
+msgid "US Dollars"
+msgstr ""
+
+#: templates/account/coupon-submit.php:217
+msgid "Usage limit per coupon"
+msgstr ""
+
+#: templates/account/coupon-submit.php:224
+msgid "Usage limit per user"
+msgstr ""
+
+#: templates/account/coupon-submit.php:212
+msgid "Usage limits"
+msgstr ""
+
+#: templates/account/coupon-submit.php:127
+msgid "Usage restrictions"
+msgstr ""
+
+#: templates/account/coupons.php:23 templates/account/coupons.php:42
+msgid "Usage/Limit"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1875
+msgid "Use image"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:201
+msgid "Use these files"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:200
+msgid "Use this file"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:736
+msgid "Used in WooCommerce Orders and required for some payment gateways "
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1083
+msgid "Used to generate iCal output"
+msgstr ""
+
+#: includes/class-listeo-core-payouts.php:626
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-add-package.php:108
+#: includes/paid-listings/class-listeo-core-paid-listings-admin-packages.php:86
+msgid "User"
+msgstr ""
+
+#: includes/class-listeo-core-commissions.php:424
+msgid "User Balance"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:593
+msgid "User Field"
+msgstr ""
+
+#: includes/class-listeo-core-commissions.php:440
+msgid "User ID"
+msgstr ""
+
+#: includes/class-listeo-core-bookings-admin.php:318
+msgid "User id"
+msgstr ""
+
+#: includes/class-listeo-core-commissions.php:441
+msgid "User Name"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:543
+msgid "User Profile Metabox"
+msgstr ""
+
+#: templates/account/login-form.php:90 templates/account/login.php:122
+msgid "Username"
+msgstr "Nazwa użytkownika"
+
+#: includes/class-listeo-core-admin.php:903
+msgid "Username will be generated from email address (part before @)"
+msgstr ""
+
+#: templates/account/login-form.php:25
+msgid "Username/Email"
+msgstr "Nazwa użytkownika / adres e-mail"
+
+#: includes/class-listeo-core-users.php:2430
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: includes/class-listeo-core-commissions.php:425
+msgid "Users Balance"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_Base.php:426
+#, php-format
+msgid ""
+"Using the \"%1$s\" field parameter as a callback has been deprecated in "
+"favor of the \"%1$s\" parameter."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:854
+msgid "V2 checkbox"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:855
+msgid "V3"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:174
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: lib/cmb2/includes/CMB2_JS.php:194
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson."
+"com/examples/timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+#, php-format
+msgid "Value Error for %s"
+msgstr ""
+
+#: listeo-core-template-functions.php:79
+msgid "Value for Money"
+msgstr "Jakość a cena"
+
+#: includes/class-listeo-core-meta-boxes.php:307
+msgid "Verified"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:295
+#: templates/single-listing.php:46 templates/single-listing.php:259
+msgid "Verified Listing"
+msgstr "Zweryfikowany "
+
+#: includes/class-listeo-core-meta-boxes.php:680
+#: includes/class-listeo-core-meta-boxes.php:683
+#: includes/class-listeo-core-submit.php:476 templates/single-listing.php:191
+#: templates/single-partials/single-listing-video.php:10
+msgid "Video"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:295
+#: includes/class-listeo-core-settings.php:170
+msgid "Vietnamese Dong"
+msgstr ""
+
+#: includes/class-listeo-core-post-types.php:274
+#: includes/class-listeo-core-post-types.php:275
+#, php-format
+msgid "View %s"
+msgstr "Podgląd %s"
+
+#: templates/listing-submitted.php:24
+msgid "View &rarr;"
+msgstr "Podgląd &rarr;"
+
+#: includes/class-listeo-core-payouts.php:739
+msgid "View Details"
+msgstr "Zobacz szczegóły"
+
+#: includes/class-listeo-core-admin.php:336
+msgid "Views"
+msgstr "Wyświetlenia"
+
+#: listeo-core-template-functions.php:84
+msgid "Visibility, commute or nearby parking spots"
+msgstr "Szybkość odpowiedzi na pytania."
+
+#: templates/single-partials/single-listing-socials.php:60
+msgid "Visit website"
+msgstr ""
+
+#: templates/account/reviews.php:39
+msgid "Visitor Reviews"
+msgstr "Recenzje gości"
+
+#: templates/booking/content-user-booking.php:16
+msgid "Waiting for owner confirmation"
+msgstr "Oczekuje na potwierdzenie od właściciela"
+
+#: includes/class-listeo-core-admin.php:1006
+msgid "Wallet Page"
+msgstr "Strona portfela"
+
+#: includes/class-listeo-core-activities-log.php:243
+msgid "was approved"
+msgstr "został zaakceptowany"
+
+#: includes/class-listeo-core-activities-log.php:239
+msgid "was created."
+msgstr "został utworzony."
+
+#: includes/class-listeo-core-activities-log.php:248
+msgid "was removed"
+msgstr "został usunięty"
+
+#: includes/class-listeo-core-activities-log.php:234
+msgid "was updated"
+msgstr "Zostało zaktualizowane"
+
+#: includes/class-listeo-core-bookings-calendar.php:1883
+msgid "We are waiting for your payment."
+msgstr "Czekamy na twoją płatność."
+
+#: includes/class-listeo-core-users.php:1847 templates/account/login.php:17
+msgid ""
+"We don't have any users with that email address. Maybe you used a different "
+"one when signing up?"
+msgstr ""
+"Nie mamy żadnego użytkownika z takim adresem mailowym. Może korzystałeś z "
+"innego maila przy rejestracji?"
+
+#: includes/class-listeo-core-bookings-calendar.php:1869
+msgid ""
+"We have some technical problem, please try again later or contact "
+"administrator."
+msgstr ""
+
+#: templates/dashboard-bookings.php:76
+msgid "We haven't found any bookings for that criteria"
+msgstr "Nie znaleziono żadnych rezerwacji dla tych kryteriów"
+
+#: templates/archive/no-found.php:5
+msgid ""
+"We&rsquo;re sorry but we do not have any listings matching your search, try "
+"to change you search settings"
+msgstr ""
+"Przykro nam, ale nie mamy żadnych ofert pasujących do Twojego wyszukiwania. "
+"Spróbuj zmienić ustawienia wyszukiwania."
+
+#: templates/archive/titlebar.php:26
+#, php-format
+msgid ""
+"We've found <em class=\"count_listings\">%s</em> <em class=\"count_text\">"
+"listing</em> for you"
+msgid_plural ""
+"We've found <em class=\"count_listings\">%s</em> <em class=\"count_text\">"
+"listings</em> for you"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-listeo-core-ical.php:140
+#, php-format
+msgid "We've successfully imported %s event"
+msgid_plural "We've successfully imported %s events"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-listeo-core-ical.php:187
+#, php-format
+msgid "We've successfully removed this calendar with %s event"
+msgid_plural "We've successfully removed this calendar with %s events"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-listeo-core-meta-boxes.php:594
+#: includes/class-listeo-core-submit.php:496
+msgid "Website"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:184
+msgid "Website URL"
+msgstr ""
+
+#: includes/class-listeo-core-calendar.php:113
+msgid "WED"
+msgstr "Śr."
+
+#: includes/class-listeo-core-bookings-calendar.php:796
+#: includes/class-listeo-core-widgets.php:699
+#: listeo-core-template-functions.php:1348
+#: listeo-core-template-functions.php:1894 templates/form-fields/slots.php:7
+msgid "Wednesday"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:688
+#: includes/class-listeo-core-submit.php:696
+#: includes/class-listeo-core-submit.php:1190
+#: includes/class-listeo-core-submit.php:1198
+msgid "Wednesday Opening Hour"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:396
+#: includes/class-listeo-core-submit.php:912
+msgid "Weekend Price"
+msgstr ""
+
+#: listeo-core-template-functions.php:390
+msgid "Weekly"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1148
+msgid "Welcome Email Content"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1142
+msgid "Welcome Email Subject"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1143
+msgid "Welcome to {site_name}"
+msgstr ""
+
+#: includes/class-listeo-core-search.php:972
+#: includes/class-listeo-core-search.php:1061
+#: includes/class-listeo-core-search.php:1172
+msgid "What are you looking for?"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:623
+#: includes/class-listeo-core-users.php:786
+msgid "WhatsApp"
+msgstr ""
+
+#: lib/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid ""
+"When the '_rendered' argument is passed, the renderable field attributes "
+"will be returned fully rendered. By default, the names of the callback "
+"handers for the renderable attributes will be returned."
+msgstr ""
+
+#: includes/class-listeo-core-messages.php:183
+msgid "Whoops, we have a problem"
+msgstr "Ups, mamy problem ..."
+
+#: lib/cmb2/example-functions.php:769
+msgid "Will show in REST API \"editable\" contexts only (`POST` requests)."
+msgstr ""
+
+#: lib/cmb2/example-functions.php:762
+msgid "Will show in the REST API for this box and for pages."
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:957
+msgid "With this option enabled booking request will be immediately approved "
+msgstr ""
+"Po włączeniu tej opcji prośba o rezerwację zostanie natychmiast zatwierdzona"
+
+#: includes/class-listeo-core-submit.php:520
+msgid ""
+"With this option enabled listing will display Contact Form Widget that will "
+"send emails to this address"
+msgstr ""
+
+#: includes/class-listeo-core-submit.php:969
+msgid ""
+"With this option enabled regular price and weekend price will be multiplied "
+"by number of guests to estimate total cost"
+msgstr ""
+"Po włączeniu tej opcji regularna cena i cena weekendowa zostaną pomnożone "
+"przez liczbę gości, aby oszacować całkowity koszt"
+
+#: templates/account/wallet.php:35
+msgid "Withdrawable Balance"
+msgstr "Saldo wypłat"
+
+#: includes/paid-listings/class-listeo-core-paid-listings-admin.php:41
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1069
+msgid "WooCommerce Orders Page"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:349
+msgid "WooCommerce Product ID"
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:352
+msgid ""
+"WooCommerce Product ID. Don't change it unless you know what you are doing:)"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1075
+msgid "WooCommerce Subscription Page"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:922
+msgid "Works only for owners and guests"
+msgstr ""
+
+#: lib/cmb2/example-functions.php:512
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:387
+#: includes/class-listeo-core-admin.php:649
+msgid ""
+"Write latitude and longitude separated by come, for example -34.397,150.644"
+msgstr ""
+
+#: includes/class-listeo-core-users.php:571
+msgid "Wrong reCAPTCHA"
+msgstr ""
+
+#: includes/class-listeo-core-users.php:257
+msgid "Wrong username or password."
+msgstr "Zła nazwa użytkownika lub hasło."
+
+#: listeo-core-template-functions.php:392
+msgid "Yearly"
+msgstr ""
+
+#: includes/class-listeo-core.php:398
+msgid "Yesterday"
+msgstr "Wczoraj"
+
+#: includes/class-listeo-core-reviews.php:900
+msgid "You already voted "
+msgstr ""
+
+#: includes/class-listeo-core-users.php:1493 templates/account/login.php:148
+msgid "You are already signed in."
+msgstr "Jesteś już zalogowany."
+
+#: templates/listing-submit.php:57
+msgid "You are currently editing:"
+msgstr "Aktualnie edytujesz:"
+
+#: templates/listing-submit.php:63
+#, php-format
+msgid "You are editing an existing listing. %s"
+msgstr ""
+
+#: templates/account/coupon-submit.php:32
+msgid "You are editing coupon."
+msgstr ""
+
+#: templates/compare-side.php:24
+msgid "You can compare only 4 listings"
+msgstr ""
+
+#: includes/class-listeo-core.php:380
+msgid "You can not upload any more files."
+msgstr ""
+
+#: templates/listing-submit.php:9
+msgid "You can't edit that listing"
+msgstr "Nie możesz edytować tego ogłoszenia"
+
+#: templates/single-partials/single-listing-reviews.php:112
+msgid "You can't review listings as an owner"
+msgstr "Nie możesz dodawać recenzji jako właściciel"
+
+#: includes/class-listeo-core.php:375
+msgid "You can't upload files of this type."
+msgstr "Nie możesz przesłać tego typu pliku."
+
+#: includes/class-listeo-core-users.php:241
+#: includes/class-listeo-core-users.php:1840 templates/account/login.php:10
+msgid "You do have an email address, right?"
+msgstr ""
+
+#: includes/class-listeo-core-activities-log.php:284
+#: includes/class-listeo-core-activities-log.php:286
+msgid "You don't have any activities logged yet."
+msgstr "Nie masz jeszcze zarejestrowanych żadnych działań."
+
+#: templates/dashboard-bookings.php:80
+msgid "You don't have any bookings yet"
+msgstr "Nie masz jeszcze żadnych rezerwacji"
+
+#: templates/account/bookmarks.php:98
+msgid "You don't have any bookmarks yet."
+msgstr "Nie dodałeś jeszcze żadnego kampera do ulubionych!"
+
+#: templates/account/wallet.php:87
+msgid "You don't have any earnings yet"
+msgstr "Nie zarobiłeś jeszcze pieniędzy. "
+
+#: templates/account/dashboard.php:130
+msgid "You don't have any listing packages yet."
+msgstr "Nie masz wykupionych żadnych pakietów."
+
+#: templates/account/my_listings.php:32
+msgid "You don't have any listings here"
+msgstr "Nie masz tutaj żadnych ofert"
+
+#: templates/account/messages.php:60
+msgid "You don't have any messages yet"
+msgstr "Nie masz jeszcze żadnych wiadomości"
+
+#: templates/account/wallet.php:180
+msgid "You don't have any payouts yet."
+msgstr "Nie masz jeszcze żadnych wypłat."
+
+#: templates/account/reviews.php:106
+msgid "You don't have any reviews"
+msgstr "Nie masz żadnych recenzji"
+
+#: includes/class-listeo-core-reviews.php:694
+msgid "You don't have any reviews for "
+msgstr "Nie masz żadnych recenzji na temat"
+
+#: includes/class-listeo-core-users.php:579
+#: includes/class-listeo-core-users.php:610
+msgid "You forgot about reCAPTCHA"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1551
+msgid "You got new conversation"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1582
+msgid "You got new message"
+msgstr ""
+
+#: templates/account/dashboard.php:114 templates/account/my_packages.php:19
+#: templates/listing-submit-package.php:50
+#, php-format
+msgid "You have %1$s listings posted out of %2$d"
+msgid_plural "You have %1$s listings posted out of %2$d"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: templates/account/dashboard.php:116 templates/account/my_packages.php:21
+#: templates/listing-submit-package.php:52
+#, php-format
+msgid "You have %s listings posted"
+msgid_plural "You have %s listings posted"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-listeo-core-activities-log.php:262
+msgid "You have added listing"
+msgstr "Dodałeś ogłoszenie"
+
+#: includes/class-listeo-core-users.php:631
+msgid ""
+"You have been successfuly registered,  you will be logged in a moment. "
+"Please check your email for the password."
+msgstr ""
+"Zostałeś pomyślnie zarejestrowany, za chwilę się zalogujesz. Sprawdź hasło w "
+"swoim e-mailu."
+
+#: includes/class-listeo-core-users.php:635
+msgid "You have been successfuly registered, you can login now."
+msgstr "Zostałeś pomyślnie zarejestrowany, możesz się teraz zalogować."
+
+#: includes/class-listeo-core-users.php:629
+msgid "You have been successfuly registered, you will be logged in a moment."
+msgstr "Zostałeś pomyślnie zarejestrowany, za chwilę się zalogujesz."
+
+#: includes/class-listeo-core-users.php:637
+msgid ""
+"You have been successfuly registered. Please check your email for the "
+"password."
+msgstr "Zostałeś pomyślnie zarejestrowany. Sprawdź hasło w swoim e-mailu."
+
+#: templates/account/login.php:56
+msgid "You have forgot about password."
+msgstr ""
+
+#: templates/account/login.php:83
+#, php-format
+msgid ""
+"You have successfully registered to <strong>%s</strong>. We have emailed "
+"your password to the email address you entered."
+msgstr ""
+
+#: templates/account/my_packages.php:37
+#, php-format
+msgid ""
+"You haven't bought any packages yet, you can do it while <a href=\"%s\">"
+"adding a listing</a> or by visiting <a href=\"%s\">shop</a>"
+msgstr ""
+
+#: templates/account/coupons.php:114
+msgid "You haven't created any coupons yet."
+msgstr "Nie stworzyłeś jeszcze kuponów."
+
+#: templates/account/reviews.php:252
+msgid "You haven't reviewed anything"
+msgstr "Jeszcze nie dodałeś recenzji."
+
+#: templates/account/bookmarks.php:76
+msgid "You haven't saved anything yet!"
+msgstr "Nie dodałeś jeszcze żadnego kampera do ulubionych."
+
+#: templates/account/my_listings.php:27
+#, php-format
+msgid ""
+"You haven't submitted any listings yet, you can add your first one <a "
+"href=\"%s\">below</a>"
+msgstr ""
+"Nie dodałeś jeszcze żadnego ogłoszenia. Możesz dodać swoje pierwsze "
+"ogłoszenie <a href=\"%s\">below</a>"
+
+#: templates/my-account.php:16
+msgid "You must be logged in to edit your profile."
+msgstr "Musisz być zalogowany"
+
+#: includes/class-listeo-core-submit.php:1541
+#: includes/class-listeo-core-submit.php:1596
+msgid "You must be signed in to post a new listing."
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:401
+msgid ""
+"You need to be on HTTPS, this uses html5 geolocation feature https://www."
+"w3schools.com/html/html5_geolocation.asp"
+msgstr ""
+
+#: includes/class-listeo-core-users.php:1538
+msgid "You need to be signed in to access your listings."
+msgstr "Musisz być zalogowany, aby uzyskać dostęp do swoich ogłoszeń."
+
+#: includes/class-listeo-core-commissions.php:328
+msgid "You need to be signed in to access your wallet."
+msgstr ""
+
+#: includes/class-listeo-core-bookmarks.php:147
+msgid "You need to be signed in to manage your bookmarks."
+msgstr ""
+
+#: includes/class-listeo-core-coupons.php:39
+msgid "You need to be signed in to manage your coupons."
+msgstr ""
+
+#: includes/class-listeo-core-users.php:1564
+msgid "You need to be signed in to manage your listings."
+msgstr "Musisz się zalogować, aby zarządzać swoimi ogłoszeniami."
+
+#: includes/class-listeo-core-messages.php:452
+msgid "You need to be signed in to manage your messages."
+msgstr "Musisz się zalogować, aby zarządzać wiadomościami."
+
+#: includes/class-listeo-core-users.php:1597
+msgid "You need to be signed in to manage your packages."
+msgstr ""
+
+#: includes/class-listeo-core-reviews.php:434
+msgid "You need to be signed in to manage your reviews."
+msgstr "Musisz się zalogować, aby zarządzać swoimi recenzjami."
+
+#: includes/class-listeo-core-users.php:247
+#: includes/class-listeo-core-users.php:1843 templates/account/login.php:13
+msgid "You need to enter a password to login."
+msgstr "Musisz podać hasło, aby się zalogować."
+
+#: includes/class-listeo-core-bookings-calendar.php:1527
+msgid "You shouldn't be here :)"
+msgstr "Nie powinno Cię tu być :)"
+
+#: templates/account/login.php:53
+msgid "You're a bot, aren't you?."
+msgstr ""
+
+#: includes/class-listeo-core-bookmarks.php:43
+msgid "You've already added that post"
+msgstr ""
+
+#: templates/single-partials/single-listing-reviews.php:141
+msgid ""
+"You've already reviewed this listing, your review is waiting for approval."
+msgstr "Już dodałeś recenzje, Twoja opinia czeka na zatwierdzenie."
+
+#: templates/my-account.php:35
+msgid "Your Avatar"
+msgstr "Twoje zdjęcie profilowe"
+
+#: includes/class-listeo-core-bookings-calendar.php:1877
+msgid "Your booking is waiting for confirmation."
+msgstr "Twoja rezerwacja czeka na potwierdzenie."
+
+#: includes/class-listeo-core-admin.php:1520
+msgid "Your booking request for {listing_name} was cancelled"
+msgstr "Twoje zapytanie o rezerwację dla {list_name} zostało anulowane"
+
+#: includes/class-listeo-core-admin.php:1425
+msgid "Your booking request was approved {listing_name}"
+msgstr "Twoja prośba o rezerwację została zatwierdzona {list_name}"
+
+#: includes/class-listeo-core-admin.php:1458
+msgid "Your booking request was approved {listing_name}, please pay"
+msgstr ""
+"Twoja prośba o rezerwację została zaakceptowana {list_name}, proszę zapłacić"
+
+#: includes/class-listeo-core-bookings-calendar.php:1894
+msgid "Your booking was cancelled"
+msgstr "Twoja rezerwacja została anulowana"
+
+#: includes/class-listeo-core-admin.php:1489
+msgid "Your booking was paid by user - {listing_name}"
+msgstr "Twoja rezerwacja została opłacona przez użytkownika - {listing_name}"
+
+#: templates/dashboard-bookings.php:71
+msgid "Your Bookings"
+msgstr "Twoje rezerwacje"
+
+#: includes/class-listeo-core.php:372
+msgid "Your browser does not support drag'n'drop file uploads."
+msgstr ""
+
+#: templates/listing-submitted.php:19
+msgid "Your changes have been saved."
+msgstr "Your changes have been saved."
+
+#: templates/account/change_password.php:17 templates/my-account.php:193
+msgid "Your current password does not match. Please retry."
+msgstr ""
+
+#: templates/account/wallet.php:77
+msgid "Your Earning"
+msgstr "Twoje zarobki"
+
+#: includes/class-listeo-core-activities-log.php:243
+#: includes/class-listeo-core-activities-log.php:255
+msgid "Your Listing"
+msgstr "Twoja oferta"
+
+#: templates/listing-submitted.php:9
+msgid "Your listing has been published."
+msgstr "Twój wpis został opublikowany."
+
+#: templates/listing-submitted.php:16
+msgid "Your listing has been saved and is awaiting admin approval"
+msgstr ""
+"Twoje ogłoszenie zostało zapisane i oczekuje na zatwierdzenie przez "
+"administratora"
+
+#: templates/listing-submitted.php:12
+msgid ""
+"Your listing has been saved and is pending payment. It will be published "
+"once the order is completed"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1238
+msgid "Your listing has expired - {listing_name}"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:1268
+msgid "Your listing is expiring in 5 days - {listing_name}"
+msgstr ""
+
+#: templates/account/dashboard.php:100
+msgid "Your Listing Packages"
+msgstr "Twoje pakiety ofertowe"
+
+#: includes/class-listeo-core-admin.php:1179
+msgid "Your listing was published - {listing_name}"
+msgstr "Twóje ogłoszenie zostało opublikowane - {list_name}"
+
+#: templates/account/single_message.php:122
+msgid "Your Message"
+msgstr "Twoja wiadomość"
+
+#: templates/dashboard-bookings.php:111
+msgid "Your message"
+msgstr "Twoja wiadomość"
+
+#: includes/class-listeo-core-widgets.php:1587
+msgid "Your message to "
+msgstr "Twoja wiadomość do"
+
+#: includes/class-listeo-core-messages.php:158
+#: includes/class-listeo-core-messages.php:197
+msgid "Your message was successfully sent"
+msgstr "Twoja wiadomość została pomyślnie wysłana"
+
+#: templates/account/change_password.php:9 templates/my-account.php:185
+msgid "Your password has been updated."
+msgstr "Twoje hasło zostało zaktualizowane."
+
+#: templates/account/change_password.php:58 templates/my-account.php:180
+msgid "Your password should be at least 12 random characters long to be safe"
+msgstr ""
+"UWAGA! hasło jest wygenerowane automatycznie i wysłane na podany przez "
+"Ciebie mail."
+
+#: templates/my-account.php:10
+msgid "Your profile has been updated."
+msgstr "Twój profil został zaktualizowany."
+
+#: templates/account/reviews.php:264
+msgid "Your review"
+msgstr "Twoja recenzja"
+
+#: templates/account/reviews.php:201
+msgid "Your Reviews"
+msgstr "Twoje recenzje"
+
+#: templates/booking.php:100
+msgid "Your short message to the listing owner (optional)"
+msgstr "Wiadomość do właściciela pojazdu (opcjonalnie)"
+
+#: includes/class-listeo-core-widgets.php:1634
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: includes/class-listeo-core-meta-boxes.php:609
+#: includes/class-listeo-core-users.php:784
+msgid "YouTube"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:297
+#: includes/class-listeo-core-settings.php:172
+msgid "Zambian Kwacha"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:407
+msgid "Zoom level for Listings Map"
+msgstr ""
+
+#: includes/class-listeo-core-admin.php:414
+msgid "Zoom level for Single Listing Map"
+msgstr ""
